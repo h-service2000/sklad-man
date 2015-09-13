@@ -1,0 +1,48 @@
+<?
+
+$dbconnect = @mysql_connect($host, $user, $pass); 
+if($dbconnect) {
+	mysql_select_db ($database, $dbconnect); 
+	$sql="set names utf8;"; mysql_query($sql);
+}
+
+
+function isBinCheck($a,$ptr){$a=strrev(base_convert($a,10,2).""); return $a{$ptr};}
+
+function qwery($q,$cnt){$ptr=0;$R=array(); $result=mysql_query($q); while($row=@mysql_fetch_assoc($result)){$R[]=$row; $ptr++; if(!$cnt) return $row; else if($ptr==$cnt) break;} return $R;}
+
+function toDigit($a){ $digit=array('0','1','2','3','4','5','6','7','8','9','-','.'); for($i=0,$val="";$i<strlen($a);$i++) {if(in_array($a{$i},$digit)) $val.=$a{$i};} return abs(floatval($val));}
+
+function getSimpleDir($a){$R=array();
+	$dir_id=opendir($a); while($f_name=readdir($dir_id)){if($f_name=="." || $f_name=="..") continue; else $R[]=$f_name;} @closedir($dir_id);
+	return $R;
+}
+
+function introEx($a,$b,$str) {
+	if($a) {$str=explode($a,$str); array_shift($str); $str=implode($a,$str);}
+	if($b) {$str=explode($b,$str); $str=array_shift($str);}
+	return $str;
+}
+
+function TextDump(&$Var,$Level=0)
+ { if(is_array($Var)) $Type="Array[".count($Var)."]";
+	else if(is_object($Var)) $Type="Object";
+	else $Type="";
+  if($Type){
+	echo "$Type\n";
+	for(Reset($Var),$Level++; list($k,$v)=each($Var);) {
+		if(is_array($v) && $k=="GLOBALS") continue;
+	for($i=0;$i<$Level*3;$i++) echo " ";
+	echo "<b>".HtmlSpecialChars($k)."</b> => ", TextDump($v,$Level);
+	}
+	}
+	else echo '"', HtmlSpecialChars($Var),'"'."\n";
+ }
+function Dump (&$Var)
+ {
+ if((is_array($Var)||is_object($Var)) && count($Var))
+	echo "<pre>\n",TextDump($Var),"</pre>\n";
+ else echo "<tt>",TextDump($Var),"</tt>\n";
+ }
+ 
+?>
