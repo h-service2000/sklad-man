@@ -1,0 +1,642 @@
+В файле указаны только конечные рубрики присутствующие на сайте.;;
+;Всё для Нового года!;1
+/new_year/ded-moroz;Дед Мороз и Снегурочка;2
+/new_year/fir-trees;Ёлки, украшения, фейерверки;3
+;Где встретить Новый год;4
+/new_year/apartments/new_year_tours;Туры, круизы, дома отдыха;5
+/new_year/apartments/place;Кафе, рестораны, бары;6
+;Авто и мото;7
+/cars/repayment;Выкуп автомобилей. Спрос;8
+;Мототехника и автодома;9
+/cars/misc/moto;Мотоциклы и мопеды;10
+/cars/misc/trailers-caravans-wagons;Автодома и легковые прицепы;11
+/cars/misc/snow;Снегоходы и квадроциклы;12
+/cars/misc/water;Водный транспорт;13
+/cars/misc/other;Другое;14
+;Легковые авто;15
+/cars/passenger/used;Автомобили с пробегом;16
+/cars/passenger/new;Новые автомобили;17
+/cars/services/evaluation;Экспертиза и оценка;18
+/cars/services/driving-school;Автошколы;19
+/cars/services/passenger;Ремонт и сервис легковых автомобилей;20
+/cars/services/commercial;Ремонт и сервис коммерческого транспорта;21
+/cars/services/moto;Ремонт и сервис мототехники и других видов транспорта;22
+/cars/services/insurance;Комиссионное оформление и страхование;23
+/cars/services/loans;Кредиты и ссуды;24
+/cars/services/assistance;Эвакуация и тех. помощь;25
+;Коммерческий транспорт;26
+/cars/commercial/small;Малый коммерческий транспорт;27
+/cars/commercial/trucks;Средние и тяжелые грузовики;28
+/cars/commercial/trailers;Грузовые прицепы;29
+/cars/commercial/buses;Автобусы;30
+/cars/commercial/special;Спецтехника;31
+;Автозапчасти и принадлежности;32
+/cars/parts/passenger;Для легковых автомобилей;33
+/cars/parts/disks;Диски;34
+/cars/parts/tires;Шины;35
+/cars/parts/wheels;Колеса;36
+/cars/parts/commercial;Для коммерческих автомобилей;37
+/cars/parts/audio;Аудио- и видеотехника;38
+/cars/parts/optics;Стекла и оптика;39
+/cars/parts/accessories;Автокосметика и аксессуары ;40
+/cars/parts/moto;Для мотоциклов и мопедов;41
+;Недвижимость;42
+;Квартиры;43
+/real-estate/apartments-sale/new;Новостройки;44
+/real-estate/apartments-sale/secondary;Вторичный рынок;45
+/real-estate/rent;Квартиры. Аренда;46
+/real-estate/rooms-sale;Комнаты и доли. Продажа;47
+/real-estate/rooms-rent;Комнаты. Аренда;48
+;Дома, дачи, участки;49
+/real-estate/out-of-town/houses;Дома, дачи;50
+/real-estate/out-of-town/lands;Участки;51
+/real-estate/out-of-town-rent;Дома, дачи. Аренда;52
+;Коммерческая недвижимость;53
+/real-estate/commercial/offices;Офисы (аренда);54
+/real-estate/commercial/retail;Торговля и сервис (аренда);55
+/real-estate/commercial/production-warehouses;Производство и склады (аренда);56
+/real-estate/commercial/eating;Кафе. Бары. Рестораны (аренда);57
+/real-estate/commercial/houses;Здания и особняки (аренда);58
+/real-estate/commercial/misc;Другого и свободного назначения (аренда);59
+/real-estate/commercial-sale/offices;Офисы (продажа);60
+/real-estate/commercial-sale/retail;Торговля и сервис  (продажа);61
+/real-estate/commercial-sale/production-warehouses;Производство и склады  (продажа);62
+/real-estate/commercial-sale/eating;Кафе. Бары. Рестораны  (продажа);63
+/real-estate/commercial-sale/houses;Здания и особняки  (продажа);64
+/real-estate/commercial-sale/misc;Другого и свободного назначения  (продажа);65
+;Гаражи, стоянки;66
+/real-estate/garage-rent/parking;Машиноместо  (аренда);67
+/real-estate/garage-rent/stall;Гаражи и боксы (аренда);68
+/real-estate/garage/parking;Машиноместо (продажа);69
+/real-estate/garage/stall;Гаражи и боксы (продажа);70
+;Спрос;71
+/real-estate/spros/live;Жилая (спрос);72
+/real-estate/spros/commercial;Коммерческая;73
+/real-estate/spros/out-of-town;Загородная;74
+/real-estate/spros/garage;Гаражи и стоянки;75
+/real-estate/services;Услуги;76
+/real-estate/exchange;Обмен;77
+/real-estate/other;Другое;78
+;Электроника и техника;79
+/electronics-technics/vacuum;Пылесосы;80
+/electronics-technics/bookreader;Электронные книги;81
+;Кухонная техника;82
+/electronics-technics/kitchen/refrigerators;Холодильники;83
+/electronics-technics/kitchen/microwaves;Микроволновые печи;84
+/electronics-technics/kitchen/cooking-panels;Плиты и варочные панели;85
+/electronics-technics/kitchen/washing;Посудомоечные машины;86
+/electronics-technics/kitchen/combines;Кухонные комбайны;87
+/electronics-technics/kitchen/electric-kettles;Электрочайники;88
+/electronics-technics/kitchen/coffee-makers;Кофеварки и кофемашины;89
+/electronics-technics/kitchen/coffee-grinders;Кофемолки;90
+/electronics-technics/kitchen/mixers;Миксеры, блендеры;91
+/electronics-technics/kitchen/toasters;Тостеры;92
+/electronics-technics/kitchen/double-boilers;Пароварки;93
+/electronics-technics/kitchen/deep-fryers;Фритюрницы;94
+/electronics-technics/kitchen/bread-oven;Хлебопечки;95
+/electronics-technics/kitchen/electrogrills;Электрогрили;96
+/electronics-technics/kitchen/juice-extractors;Соковыжималки;97
+/electronics-technics/kitchen/meat-grinders;Мясорубки;98
+/electronics-technics/kitchen/scales;Кухонные весы;99
+/electronics-technics/kitchen/water-treating-filters;Фильтры для очистки воды и картриджи;100
+/electronics-technics/kitchen/hoods;Вытяжки;101
+/electronics-technics/kitchen/other;Прочее;102
+;Аудио, Видео;103
+/electronics-technics/tv-audio-dvd/tv;Телевизоры и плазменные панели;104
+/electronics-technics/tv-audio-dvd/video-dvd;Видеоплееры и рекордеры - dvd;105
+/electronics-technics/tv-audio-dvd/video-vhs;Видеоплееры и рекордеры - vhs;106
+/electronics-technics/tv-audio-dvd/cameras;Видеокамеры;107
+/electronics-technics/tv-audio-dvd/musical-centres;Проигрыватели и музыкальные центры;108
+/electronics-technics/tv-audio-dvd/house-cinemas;Домашние кинотеатры;109
+/electronics-technics/tv-audio-dvd/acoustics;Акустические системы;110
+/electronics-technics/tv-audio-dvd/receivers;Ресиверы;111
+/electronics-technics/tv-audio-dvd/amplifiers;Усилители;112
+/electronics-technics/tv-audio-dvd/karaoke;Караоке;113
+/electronics-technics/tv-audio-dvd/tape-recorders;Магнитолы;114
+/electronics-technics/tv-audio-dvd/audioplayers;Аудиоплееры;115
+/electronics-technics/tv-audio-dvd/dictophones;Диктофоны;116
+/electronics-technics/tv-audio-dvd/ear-phones;Наушники;117
+/electronics-technics/tv-audio-dvd/radio-receivers;Радиоприемники;118
+/electronics-technics/tv-audio-dvd/satellite-tv;Спутниковое тв;119
+/electronics-technics/tv-audio-dvd/audio-video-accessories;Аксессуары для аудио-видео;120
+/electronics-technics/tv-audio-dvd/other;Другое;121
+;Стиральные машины ;122
+/electronics-technics/washing-machines/washing;Стиральные машины;123
+/electronics-technics/washing-machines/drying;Сушильные машины;124
+;Климатическая техника;125
+/electronics-technics/climatic-technics/air-conditioning;Кондиционеры;126
+/electronics-technics/climatic-technics/fans;Вентиляторы;127
+/electronics-technics/climatic-technics/water-heaters;Водонагреватели;128
+/electronics-technics/climatic-technics/heating-devices;Обогревательные приборы;129
+/electronics-technics/climatic-technics/air-purification-systems;Системы очистки воздуха;130
+/electronics-technics/climatic-technics/thermometers-meteorological-stations;Термометры и метеостанции;131
+;Игры, игровые приставки;132
+/electronics-technics/games/game-consoles;Игровые приставки;133
+/electronics-technics/games/games-for-consoles;Игры для приставок;134
+;Индивидуальный уход ;135
+/electronics-technics/individual-care/razors-trimmers;Бритвы, триммеры;136
+/electronics-technics/individual-care/hair;Для укладки волос;137
+/electronics-technics/individual-care/hairstyle;Для стрижки волос;138
+/electronics-technics/individual-care/epilators;Эпиляторы;139
+/electronics-technics/individual-care/cosmetic-equipment;Косметические приборы;140
+/electronics-technics/individual-care/toothbrushes;Зубные щетки;141
+/electronics-technics/individual-care/scales;Весы напольные;142
+/electronics-technics/gps-navigators;GPS-навигаторы;143
+;Гладильное и швейное оборудование;144
+/electronics-technics/ironing-sewing-equipment/irons;Утюги ;145
+/electronics-technics/ironing-sewing-equipment/sewing-machines;Швейные машины ;146
+/electronics-technics/ironing-sewing-equipment/knitting-machine;Вязальные машины ;147
+/electronics-technics/ironing-sewing-equipment/overlock;Оверлоки ;148
+/electronics-technics/repair/;Ремонт и сервис электроники и бытовой техники;149
+/electronics-technics/other;Другое;150
+;Компьютерная техника;151
+;Ноутбуки;152
+/computers-devices/notebooks/notebooks;Ноутбуки;153
+/computers-devices/notebooks/netbooks_umpc;Нетбуки и UMPC;154
+/computers-devices/notebooks/cases_for_notebooks;Сумки и чехлы для ноутбуков;155
+/computers-devices/notebooks/accessories;Аксессуары для ноутбуков ;156
+/computers-devices/desktops;Настольные компьютеры;157
+;КПК;158
+/computers-devices/pdas_communicators/pda;КПК;159
+/computers-devices/tablet;Планшеты;160
+/computers-devices/servers;Серверы;161
+/computers-devices/pdas_communicators/accessories;Аксессуары для КПК ;162
+;Мультимедиа;163
+/computers-devices/multimedia/acoustics_pc;Акустика для ПК;164
+/computers-devices/multimedia/headphones_microphones;Наушники и микрофоны;165
+/computers-devices/multimedia/webcams;Веб-камеры;166
+/computers-devices/multimedia/graphic_tablets;Графические планшеты;167
+/computers-devices/multimedia/tv-tuners;TV-тюнеры;168
+/computers-devices/multimedia/midi_keyboards;MIDI-клавиатуры;169
+/computers-devices/multimedia/projectors;Проекторы;170
+/computers-devices/multimedia/videoconferences;Оборудование для видеоконференций;171
+;Мониторы;172
+/computers-devices/monitors/lcd;LCD (ЖК);173
+/computers-devices/monitors/crt;ЭЛТ;174
+;Принтеры, сканеры, копиры;175
+/computers-devices/printers/printers;Принтеры;176
+/computers-devices/printers/multifunction;Многофункциональные устройства;177
+/computers-devices/printers/copiers;Сканеры;178
+/computers-devices/printers/scanners;Копиры;179
+/computers-devices/printers/other;Другое;180
+;Flash-накопители ;181
+/computers-devices/flash_drives/memory_cards;Карты памяти;182
+/computers-devices/flash_drives/usb_flash_disks;USB flash-диски;183
+/computers-devices/flash_drives/card_readers;Кард-ридеры;184
+;Расходные материалы;185
+/computers-devices/consumables/disks;Диски, дискеты, кассеты;186
+/computers-devices/consumables/cartridges;Картриджи;187
+/computers-devices/consumables/paper_film;Бумага и пленка;188
+/computers-devices/consumables/other;Другое;189
+;Комплектующие ;190
+/computers-devices/hardware/motherboards;Материнские платы;191
+/computers-devices/hardware/video_cards;Видеокарты;192
+/computers-devices/hardware/processors;Процессоры;193
+/computers-devices/hardware/cases;Корпуса;194
+/computers-devices/hardware/psu;Блоки питания;195
+/computers-devices/hardware/memory_modules;Модули памяти;196
+/computers-devices/hardware/hard_drives;Жесткие диски (HDD и SSD);197
+/computers-devices/hardware/fans;Вентиляторы;198
+/computers-devices/hardware/dvd;Blu-ray, CD-, DVD- и FDD-приводы;199
+/computers-devices/hardware/sound_cards;Звуковые карты;200
+/computers-devices/hardware/other;Другое;201
+/computers-devices/network;Сетевое оборудование;202
+;Программное обеспечение и игры ;203
+/computers-devices/software_games/antiviruses;Антивирусы и безопасность;204
+/computers-devices/software_games/databases;Базы данных;205
+/computers-devices/software_games/accounting;Бухгалтерия;206
+/computers-devices/software_games/web_design;Веб-дизайн;207
+/computers-devices/software_games/pc_games;Игры для pc;208
+/computers-devices/software_games/office_software;Системные и офисные программы;209
+/computers-devices/software_games/programming;Программирование;210
+/computers-devices/software_games/training_programs;Обучающие и справочные программы;211
+/computers-devices/software_games/dictionaries_translators;Словари и переводчики;212
+/computers-devices/software_games/other_software;Другое по;213
+;Источники питания ;214
+/computers-devices/power/ups;UPS;215
+/computers-devices/power/network_filters_stabilizers;Сетевые фильтры и стабилизаторы;216
+/computers-devices/keyboards;Клавиатуры, мыши, игровые манипуляторы;217
+/computers-devices/computer_accessories;Компьютерные аксессуары;218
+/computers-devices/repair;Ремонт и сервис компьютерной техники;219
+/computers-devices/other;Другое;220
+;Телефоны и связь;221
+;Мобильная связь;222
+/communication/mobile/mobiles;Мобильные телефоны;223
+/communication/mobile/contracts;Контракты;224
+/communication/mobile/other;Другое;225
+;Для дома и офиса ;226
+/communication/office-and-home/radiotelephones;Радиотелефоны;227
+/communication/office-and-home/stationary;Стационарные телефоны;228
+/communication/office-and-home/mini-pbx;Мини-АТС;229
+/communication/office-and-home/faxes;Факсы;230
+/communication/devices;Рации, переговорные устройства;231
+/communication/accessories;Аксессуары для телефонов ;232
+/communication/other;Другое;233
+/communication/repair;Ремонт и сервис телефонов и средств связи ;234
+;Фото, оптика;235
+;Фототехника;236
+/photo/phototechnics/digital;Фотоаппараты цифровые;237
+/photo/phototechnics/film;Фотоаппараты пленочные;238
+/photo/phototechnics/flashes;Вспышки;239
+/photo/phototechnics/tripods;Штативы;240
+/photo/phototechnics/lenses;Объективы;241
+/photo/phototechnics/frames;Цифровые фоторамки;242
+/photo/phototechnics/accessories;Аксессуары для фототехники ;243
+/photo/phototechnics/other;Другое;244
+;Оптика ;245
+/photo/optics/binoculars;Бинокли;246
+/photo/optics/microscopes;Микроскопы;247
+/photo/optics/nightvision;Приборы ночного видения;248
+/photo/optics/spyglasses;Подзорные трубы;249
+/photo/optics/telescopes;Телескопы;250
+/photo/optics/accessories;Аксессуары для оптики ;251
+/photo/optics/other;Другое;252
+/photo/other;Другое;253
+/photo/repair;Ремонт и сервис фототехники;254
+;Строительство и ремонт;255
+;Инструменты ;256
+/building/instruments/saws;Пилы, электро, бензопилы;257
+/building/instruments/gas;Бензоинструменты;258
+/building/instruments/pneumatic;Пневмоинструменты;259
+/building/instruments/handtools;Ручные инструменты;260
+/building/instruments/measuring;Измерительные инструменты;261
+/building/instruments/gear;Оснастка к инструментам;262
+/building/instruments/stepladders;Стремянки, приставные лестницы;263
+/building/instruments/other;Прочее;264
+/building/instruments/electric;Электроинструменты;265
+;Двери, окна, балконы, лестницы ;266
+/building/elements/doors;Двери;267
+/building/elements/windows;Окна, балконы;268
+/building/elements/ladders;Лестницы и их элементы;269
+/building/elements/accessories;Замки, фурнитура и комплектующие;270
+;Материалы ;271
+/building/materials/finishes;Облицовочные и отделочные;272
+/building/materials/paints;Лакокрасочные;273
+/building/materials/fasteners;Элементы крепежа;274
+/building/materials/concrete;ЖБИ, бетон, кирпич, сухие смеси;275
+/building/materials/concrete;Лесопиломатериалы, столярные изделия;276
+/building/materials/metal;Металлопрокат, арматура, металлоизделия;277
+/building/materials/roof-frontage;Кровельные и фасадные материалы;278
+/building/materials/isolation;Изоляционные материалы;279
+/building/materials/glass;Стекло, стеклоизделия, светопрозрачные пластики;280
+/building/materials/other;Прочие;281
+;Сантехника ;282
+/building/plumbing/mixers;Смесители;283
+/building/plumbing/sinks;Кухонные мойки;284
+/building/plumbing/basins;Раковины, умывальники;285
+/building/plumbing/toilets;Унитазы, писсуары, биде;286
+/building/plumbing/baths;Ванны;287
+/building/plumbing/douchecabins;Душевые кабины;288
+/building/plumbing/pools;Бассейны;289
+/building/plumbing/towelrails;Полотенцесушители;290
+/building/plumbing/pipes;Трубы, сантехническая арматура;291
+/building/plumbing/other;Прочее;292
+/building/plumbing/heaters;Водонагреватели;293
+;Электрика;294
+/building/electrics/cables;Кабели, провода;295
+/building/electrics/powerstations;Электростанции;296
+/building/electrics/other;Прочее;297
+;Отопление ;298
+/building/heating/radiators;Радиаторы, конвекторы;299
+/building/heating/systems;Системы отопления;300
+/building/heating/fireplaces;Камины, печи, дымоходы;301
+/building/heating/other;Прочее;302
+/building/constructions;Готовые конструкции:дома, бани, срубы;303
+/building/pumps;Насосы;304
+/building/protection;Средства индивидуальной защиты;305
+/building/ventilation;Вентиляционные системы;306
+/building/other;Другое;307
+;Все для дачи;308
+;Садовая техника ;309
+/garden/equipment/grass_cutter;Газонокосилки, триммеры;310
+/garden/equipment/pressure_washers;Мойки высокого давления;311
+/garden/equipment/tillers;Культиваторы, мотоблоки;312
+/garden/equipment/snow_plowers;Снегоуборщики;313
+/garden/equipment/other;Другое;314
+;Садовые инструменты, инвентарь ;315
+/garden/tools/handtools;Садовые инструменты;316
+/garden/tools/wheelbarrows;Тачки, тележки;317
+/garden/tools/watering;Товары для полива;318
+/garden/tools/repellers;Средства против насекомых и грызунов;319
+/garden/tools/other;Другое;320
+;Товары для садоводства ;321
+/garden/gardening/coldframes;Теплицы, парники;322
+/garden/gardening/grounds;Грунт, удобрения;323
+/garden/gardening/seeds;Посадочный материал;324
+/garden/gardening/other;Другое;325
+;Садовая мебель, сантехника, декор ;326
+/garden/elements/furniture;Мебель;327
+/garden/elements/toilets;Биотуалеты, рукомойники;328
+/garden/elements/decorations;Декор;329
+/garden/elements/other;Другое;330
+;Грили, мангалы ;331
+/garden/grill/grills;Грили, мангалы;332
+/garden/grill/skewers;Решетки, шампуры;333
+/garden/grill/coal;Уголь, средства розжига;334
+/garden/grill/other;Другое;335
+;Для бань и саун ;336
+/garden/bany/furniture;Мебель для бани, сауны;337
+/garden/bany/kupels;Купели;338
+/garden/bany/accessories;Аксессуары для бань и саун;339
+/garden/bany/other;Другое;340
+;Бассейны и принадлежности ;341
+/garden/pool/pools;Бассейны;342
+/garden/pool/equipment;Оборудование для бассейнов;343
+/garden/pool/chemicals;Химические средства;344
+/garden/pool/accessories;Аксессуары для бассейнов;345
+/garden/pool/other;Другое;346
+/garden/other;Другое;347
+;Оборудование;348
+/equipment/trade;Торговое и холодильное оборудование;349
+/equipment/cosmetology;Оборудование для сферы услуг;350
+/equipment/building;Строительное оборудование;351
+/equipment/production;Станки, производственное и обрабатывающее оборудование;352
+/equipment/safety;Системы охраны и безопасности;353
+/equipment/other;Другое;354
+;Товары для детей;355
+/children/baby-clothes;Детская одежда;356
+/children/baby-carriage;Коляски;357
+/children/baby-shoes;Детская обувь;358
+/children/baby-carseat;Автокресла;359
+/children/baby-furniture;Детская мебель ;360
+/children/baby-furniture/baby-bed;Кроватки;361
+/children/baby-furniture/changing-table;Пеленальные столики, комоды;362
+/children/baby-furniture/baby-chair;Стульчики для кормления, столы;363
+/children/baby-furniture/playpen;Манежи;364
+/children/baby-furniture/other;Прочее;365
+;Товары для малышей ;366
+/children/babyware/baby-feed;Кормление;367
+/children/babyware/bath-hygiene;Купание, гигиена;368
+/children/babyware/nappy;Подгузники, пеленки;369
+/children/babyware/baby-carrier;Рюкзаки, слинги, переноски;370
+/children/babyware/baby-jumper;Ходунки, прыгунки, шезлонги;371
+/children/babyware/other;Прочее;372
+/children/toys;Игрушки;373
+/children/baby-textile;Постельные принадлежности;374
+/children/baby-sportware;Спортивные товары;375
+/children/mum-to-be;Для будущих мам;376
+/children/schoolware;Товары для школы;377
+/children/other;Другие детские товары;378
+;Бизнес и партнерство;379
+;Готовый бизнес ;380
+/business/business/ready-made-business;Бизнес под ключ;381
+/business/business/franchising;Франшизы;382
+;Партнерство и сотрудничество ;383
+/business/collaboration/loans;Кредиты, займы;384
+/business/collaboration/partnership;Партнерство;385
+/business/collaboration/sales;Представительство, реализация;386
+/business/collaboration/other;Другое;387
+;Бизнес услуги ;388
+/business/business-services/legal;Юридическое сопровождение;389
+/business/business-services/book-keeping;Бухгалтерское, аудиторское сопровождение;390
+/business/business-services/credit;Помощь в получении кредита;391
+/business/business-services/finance;Финансовая помощь, консультации;392
+/business/business-services/advertisement-print;Реклама и полиграфия, печати и штампы;393
+/business/business-services/other;Другие услуги;394
+;Сырье, тара, товары оптом ;395
+/business/tara-materials/tara;Инвентарь, тара;396
+/business/tara-materials/materials;Сырье, вторичная переработка;397
+/business/tara-materials/goods;Товары оптом;398
+/business/tara-materials/other;Другое;399
+;Мебель, интерьер, обиход;400
+;Мебель для гостиной ;401
+/furniture-interior/living-room/composition;Стенки, модули;402
+/furniture-interior/living-room/tables;Столы, журнальные столики;403
+/furniture-interior/living-room/racks;Стеллажи, полки, витрины;404
+/furniture-interior/living-room/stands;Тумбы для ТВ;405
+/furniture-interior/living-room/other;Другое;406
+;Мягкая мебель ;407
+/furniture-interior/upholstered-furniture/sofa;Диваны;408
+/furniture-interior/upholstered-furniture/chairs;Кресла, пуфы, банкетки;409
+/furniture-interior/upholstered-furniture/other;Другое;410
+;Мебель для спальни ;411
+/furniture-interior/bedroom/composition;Спальные гарнитуры;412
+/furniture-interior/bedroom/beds;Кровати;413
+/furniture-interior/bedroom/cupboards;Шкафы;414
+/furniture-interior/bedroom/stands;Тумбы, комоды, туалетные столики;415
+/furniture-interior/bedroom/other;Другое;416
+;Мебель для кухни ;417
+/furniture-interior/kitchen/composition;Кухонные гарнитуры;418
+/furniture-interior/kitchen/corners;Кухонные уголки;419
+/furniture-interior/kitchen/cupboards;Кухонные шкафы, полки, столешницы;420
+/furniture-interior/kitchen/tables;Столы, стулья, столовые группы;421
+/furniture-interior/kitchen/other;Другое;422
+;Мебель для прихожей ;423
+/furniture-interior/hallway/composition;Готовые гарнитуры;424
+/furniture-interior/hallway/cupboards;Шкафы;425
+/furniture-interior/hallway/stands;Тумбы, полки для обуви;426
+/furniture-interior/hallway/other;Другое;427
+/furniture-interior/bathroom;Мебель для ванной комнаты;428
+/furniture-interior/computer-tables;Компьютерные столы и кресла;429
+/furniture-interior/office-furniture;Офисная мебель;430
+;Предметы обихода ;431
+/furniture-interior/home-stuff/mattress;Матрасы;432
+/furniture-interior/home-stuff/textiles;Текстиль;433
+/furniture-interior/home-stuff/dishes;Посуда;434
+/furniture-interior/home-stuff/other;Другое;435
+/furniture-interior/bathroom-items;Товары для ванной и туалета;436
+/furniture-interior/cleaning;Товары для уборки дома;437
+/furniture-interior/other;Другая мебель;438
+/furniture-interior/repair;Ремонт мебели;439
+;Интерьер ;440
+/furniture-interior/interior/mirrors;Зеркала;441
+/furniture-interior/interior/carpets;Ковры;442
+/furniture-interior/interior/lights;Освещение;443
+/furniture-interior/interior/decorations;Элементы декора;444
+/furniture-interior/interior/other;Другое;445
+;Одежда, обувь, аксессуары;446
+/apparel-footwear/women-clothes;Женская одежда;447
+/apparel-footwear/men-clothes;Мужская одежда ;448
+/apparel-footwear/women-shoes;Женская обувь;449
+/apparel-footwear/men-shoes;Мужская обувь;450
+;Украшения, ювелирные изделия, бижутерия ;451
+/apparel-footwear/jewellery-bijou/jewellery;Ювелирные изделия;452
+/apparel-footwear/jewellery-bijou/bijou;Бижутерия;453
+/apparel-footwear/jewellery-bijou/other;Другие украшения;454
+;Аксессуары;455
+/apparel-footwear/accessories-men-women/watches;Наручные часы;456
+/apparel-footwear/accessories-men-women/bags;Сумки, чемоданы;457
+/apparel-footwear/accessories-men-women/other;Другие аксессуары;458
+;Все для свадьбы;459
+/apparel-footwear/wedding/wedding-dress;Свадебные платья;460
+/apparel-footwear/wedding/wedding_shoes;Свадебная обувь;461
+/apparel-footwear/wedding/bolero;Свадебные шубки, накидки;462
+/apparel-footwear/wedding/suit;Костюмы, смокинги;463
+/apparel-footwear/wedding/wedding_accessories;Аксессуары для невесты;464
+/apparel-footwear/wedding/other;Другое;465
+/apparel-footwear/other;Другое;466
+;Книги, учебники, журналы;467
+/books-papers/fiction;Художественная литература;468
+/books-papers/study;Учебная литература;469
+/books-papers/magazines;Журналы, газеты;470
+/books-papers/comixes;Альбомы и комиксы;471
+/books-papers/other;Другое;472
+;Музыка, искусство;473
+/arts-music/instruments;Музыкальные инструменты;474
+/arts-music/recordings;Аудио-, видеозаписи;475
+/arts-music/arts;Произведения искусства и антиквариат;476
+/arts-music/collections;Коллекционирование;477
+/arts-music/other;Другое;478
+/arts-music/service;Реставрация и сервис;479
+;Спорт, туризм, отдых;480
+;Спортивные игры, виды спорта ;481
+/sports-tourism/sports/wintersport;Зимний инвентарь;482
+/sports-tourism/sports/summersport;Летний инвентарь;483
+/sports-tourism/sports/watersport;Водный спорт, дайвинг;484
+/sports-tourism/sports/table-games;Настольные игры;485
+/sports-tourism/bicycles;Велосипеды;486
+;Снаряжение для рыбалки, охоты, активного отдыха ;487
+/sports-tourism/tourism/fishing;Рыбалка;488
+/sports-tourism/tourism/outdoor;Туризм;489
+/sports-tourism/tourism/other;Другое;490
+;Фитнес, атлетика, борьба ;491
+/sports-tourism/fitness/home-gym;Тренажеры, спорткомплексы;492
+/sports-tourism/fitness/athletic;Атлетика и фитнес;493
+/sports-tourism/fitness/boxing;Бокс, товары для единоборств;494
+/sports-tourism/travel;Экскурсии, туры, круизы;495
+/sports-tourism/study;Обучения и занятия;496
+/sports-tourism/other;Другое;497
+;Услуги и деятельность;498
+;Строительные и ремонтные услуги ;499
+/services-business/building/construction;Cтроительно-монтажные работы;500
+/services-business/building/repair;Отделочные и ремонтные работы;501
+/services-business/building/design;Проектирование и дизайн;502
+/services-business/building/other;Другое;503
+;Транспортные услуги и аренда ;504
+/services-business/transportation/moving;Грузоперевозки, переезды, грузчики;505
+/services-business/transportation/special;Аренда спецтехники и вывоз отходов;506
+/services-business/transportation/hiring;Такси, аренда и прокат, пассажирские перевозки;507
+/services-business/transportation/other;Другое;508
+/services-business/equipment;Монтаж и ремонт оборудования;509
+/services-business/astrology;Астрология, магия, гадания;510
+/services-business/actions;Организация праздников, фото-, видеосъёмка;511
+/services-business/security;Безопасность, детективы;512
+/services-business/advocates;Адвокаты, нотариусы, специалисты;513
+/services-business/food;Питание, обеды с доставкой;514
+/services-business/internet;Услуги в Интернете;515
+/services-business/real-estate;Агентства недвижимости;516
+/services-business/data-processing;Набор и обработка информации;517
+/services-business/clothes-repair;Ремонт и изготовление одежды и обуви;518
+/services-business/documents;Помощь в оформлении документов;519
+/services-business/demand;Спрос;520
+/services-business/translations;Услуги переводчиков;521
+;Услуги для животных ;522
+/services-business/animals/veterinary;Ветеринария;523
+/services-business/animals/grooming;Стрижка;524
+/services-business/animals/hotels;Питомники, зоогостиницы, няни, содержание;525
+/services-business/animals/other;Другие;526
+/services-business/other;Другое;527
+;Работа и образование;528
+;Вакансии: поиск сотрудников;529
+/jobs-education/vacancies/communal;Бытовые и коммунальные услуги, муниципалитет;530
+/jobs-education/vacancies/provision;Закупки и снабжение;531
+/jobs-education/vacancies/entertainment;Индустрия отдыха и развлечений;532
+/jobs-education/vacancies/it;Информационные технологии и интернет;533
+/jobs-education/vacancies/beauty;Красота, фитнес, спорт;534
+/jobs-education/vacancies/logistics;Логистика, склад, вэд;535
+/jobs-education/vacancies/marketing-pr;Маркетинг, реклама, pr;536
+/jobs-education/vacancies/medicine;Медицина и фармацевтика;537
+/jobs-education/vacancies/real-estate;Недвижимость, риэлторство;538
+/jobs-education/vacancies/nannies/;Няни, воспитатели, помощники в хозяйстве;539
+/jobs-education/vacancies/education;Образование, наука, культура;540
+/jobs-education/vacancies/assistance;Обслуживающий персонал, секретариат, ахо ;541
+/jobs-education/vacancies/security;Охрана, безопасность;542
+/jobs-education/vacancies/retail;Продажи;543
+/jobs-education/vacancies/production;Промышленность, производство;544
+/jobs-education/vacancies/horeca;Ресторанный бизнес, фастфуд;545
+/jobs-education/vacancies/management;Руководители;546
+/jobs-education/vacancies/print-media;Сми, издательство, полиграфия;547
+/jobs-education/vacancies/insurance;Страхование;548
+/jobs-education/vacancies/building;Строительство и архитектура;549
+/jobs-education/vacancies/transport;Транспорт, автобизнес;550
+/jobs-education/vacancies/tourism;Туризм, гостиничное дело;551
+/jobs-education/vacancies/freelance;Удаленная работа;552
+/jobs-education/vacancies/hr;Управление персоналом;553
+/jobs-education/vacancies/finance;Финансы, бухгалтерия, банк;554
+/jobs-education/vacancies/legal;Юриспруденция;555
+/jobs-education/vacancies/other;Другие сферы деятельности;556
+;Резюме: поиск работы;557
+/jobs-education/resumes/communal;Бытовые и коммунальные услуги, муниципалитет (вакансии);558
+/jobs-education/resumes/provision;Закупки и снабжение;559
+/jobs-education/resumes/entertainment;Индустрия отдыха и развлечений;560
+/jobs-education/resumes/it;Информационные технологии и интернет;561
+/jobs-education/resumes/beauty;Красота, фитнес, спорт;562
+/jobs-education/resumes/logistics;Логистика, склад, вэд;563
+/jobs-education/resumes/marketing-pr;Маркетинг, реклама, pr;564
+/jobs-education/resumes/medicine;Медицина и фармацевтика;565
+/jobs-education/resumes/real-estate;Недвижимость, риэлторство;566
+/jobs-education/resumes/nannies/;Няни, воспитатели, помощники в хозяйстве;567
+/jobs-education/resumes/education;Образование, наука, культура;568
+/jobs-education/resumes/assistance;Обслуживающий персонал, секретариат, ахо ;569
+/jobs-education/resumes/security;Охрана, безопасность;570
+/jobs-education/resumes/retail;Продажи;571
+/jobs-education/resumes/production;Промышленность, производство;572
+/jobs-education/resumes/horeca;Ресторанный бизнес, фастфуд;573
+/jobs-education/resumes/management;Руководители;574
+/jobs-education/resumes/print-media;Сми, издательство, полиграфия;575
+/jobs-education/resumes/insurance;Страхование;576
+/jobs-education/resumes/building;Строительство и архитектура;577
+/jobs-education/resumes/transport;Транспорт, автобизнес;578
+/jobs-education/resumes/tourism;Туризм, гостиничное дело;579
+/jobs-education/resumes/freelance;Удаленная работа;580
+/jobs-education/resumes/hr;Управление персоналом;581
+/jobs-education/resumes/finance;Финансы, бухгалтерия, банк;582
+/jobs-education/resumes/legal;Юриспруденция;583
+/jobs-education/resumes/other;Другие сферы деятельности;584
+;Образование ;585
+/jobs-education/education/languages;Иностранные языки;586
+/jobs-education/education/tutors;Преподаватели, репетиторы;587
+/jobs-education/education/preschoolers;Дошкольное образование;588
+/jobs-education/education/trainings;Курсы, семинары, тренинги;589
+/jobs-education/education/other;Другое;590
+/jobs-education/other;Другое;591
+;Здоровье и красота;592
+/beauty-health/perfumes;Парфюмерия;593
+/beauty-health/cosmetics;Косметика;594
+/beauty-health/lose-weight;Похудение;595
+/beauty-health/equipment;Оснащение;596
+/beauty-health/medical-care;Медицинская помощь ;597
+/beauty-health/cosmetology;Косметология и коррекция;598
+/beauty-health/massage;Массаж;599
+/beauty-health/other;Другое;600
+;Животные и растения;601
+;Животные ;602
+/animals-plants/animals/dogs;Собаки;603
+/animals-plants/animals/cats;Кошки;604
+/animals-plants/animals/birds;Птицы;605
+/animals-plants/animals/aquarium;Аквариумные;606
+/animals-plants/animals/rodents;Грызуны;607
+/animals-plants/animals/other;Другие животные;608
+;Аксессуары ;609
+/animals-plants/accessories/food;Корма и добавки;610
+/animals-plants/accessories/animal_cloth;Одежда для животных;611
+/animals-plants/accessories/care;Средства для ухода за животными;612
+/animals-plants/accessories/aquarium;Аквариумистика;613
+/animals-plants/accessories/other;Другое;614
+/animals-plants/plants;Растения;615
+;Праздники и подарки;616
+/gifts/holiday;Тематические подарки;617
+/gifts/business-souvenir;Бизнес сувениры;618
+/gifts/flower;Букеты, декоративные цветы и вкусные подарки;619
+/gifts/decoration;Подарки для декора и интерьера;620
+/gifts/hobby;Хобби и развлечения;621
+/gifts/wine-tobacco;Принадлежности для спиртного и аксессуары для курения;622
+/gifts/gift-set;Подарочные наборы;623
+/gifts/gift-certificate;Подарочные сертификаты;624
+/gifts/handmade;Подарки ручной работы;625
+/gifts/holiday-accessory;Праздничные аксессуары;626
+/gifts/other;Другое;627
+;Другое;628
+/other/food;Продовольствие;629
+/other/adult;Товары для взрослых;630
+/other/other;Другое;631
+/otdam-darom;Отдам даром;632
+;Продукты питания;633
+/food/milkproducts;Молочные продукты, яйца;634
+/food/meatproducts;Мясо, рыба, птица, морепродукты;635
+/food/veg;Овощи, фрукты, ягоды, грибы;636
+/food/grocery;Бакалея, мёд;637
+/food/bakery;Хлеб и кондитерские изделия;638
+/food/drinks;Чай, кофе, напитки;639
+/food/cans;Консервированная продукция;640
+/food/other;Другое;641

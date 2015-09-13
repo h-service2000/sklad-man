@@ -1,0 +1,785 @@
+Путь рубрики;Название рубрики;Типы объявления;Метка
+;Всё для Нового года!;;
+/new_year/ded-moroz;Дед Мороз и Снегурочка;Услуги деда мороза;new_year_santa
+/new_year/fir-trees;Ёлки, украшения, фейерверки;Елки и елочные украшения;new_year_tree
+;Где встретить Новый год;;
+/new_year/apartments/new_year_tours;Туры, круизы, дома отдыха;Новогоднее путешествие;new_year_tours
+/new_year/apartments/place;Кафе, рестораны, бары;Где встретить Новый год; where_new_year
+;Авто и мото;;
+/cars/repayment;Выкуп автомобилей. Спрос;Выкуп авто. Спрос;auto_spros
+;Мототехника и автодома;;
+/cars/misc/moto;Мотоциклы и мопеды;Мотоциклы и мопеды;auto_moto
+/cars/misc/trailers-caravans-wagons;Автодома и легковые прицепы;Автодома, фургоны и легковые прицепы;auto_wagon
+/cars/misc/snow;Снегоходы и квадроциклы;Снегоходы и квадроциклы - Снегоходы;auyo_snow-1
+;;Снегоходы и квадроциклы - Квадроциклы;auyo_snow-2
+/cars/misc/water;Водный транспорт;Водный транспорт;auto_water
+;;Гидроциклы; jet_ski
+;;Лодочные моторы;motor_boat
+/cars/misc/other;Другое;Другая мототехника;other_moto
+;Легковые авто;;
+/cars/passenger/used;Автомобили с пробегом;С пробегом;auto_sprobegom
+/cars/passenger/new;Новые автомобили;Авто новые;auto_new
+/cars/services/evaluation;Экспертиза и оценка;Экспертиза и оценка;auto_ekspertiza
+/cars/services/driving-school;Автошколы;Автошколы;auto_school
+/cars/services/passenger;Ремонт и сервис легковых автомобилей;Ремонт и сервис легковых авто;auto_rep_service_lite
+/cars/services/commercial;Ремонт и сервис коммерческого транспорта;Ремонт и сервис коммерческого транспорта;auto_rep_service_com
+/cars/services/moto;Ремонт и сервис мототехники и других видов транспорта;Ремонт мототехники и других видов транспорта;repair_moto
+/cars/services/insurance;Комиссионное оформление и страхование;Комиссионное оформление авто;auto_insurance
+/cars/services/loans;Кредиты и ссуды;Кредиты и ссуды;auto_credit
+/cars/services/assistance;Эвакуация и тех. помощь;Эвакуация и тех. помощь; auto_assistance
+;Коммерческий транспорт;;
+/cars/commercial/small;Малый коммерческий транспорт;Малый коммерческий транспорт;auto_small_com
+/cars/commercial/trucks;Средние и тяжелые грузовики;Средние и тяжелые грузовики;auto_heavy
+/cars/commercial/trailers;Грузовые прицепы;Грузовые прицепы;auto_trailer
+/cars/commercial/buses;Автобусы;Автобусы;auto_bus
+/cars/commercial/special;Спецтехника;Спецтехника;auto_special
+;Автозапчасти и принадлежности;;
+/cars/parts/passenger;Для легковых автомобилей;Автосигнализация;car_alarm_system
+;;Запчасти для легковых автомобилей;auto_spares_lite
+;;Ксенон;ksenon
+;; Автомобильные аккумуляторы;auto_accumulator
+/cars/parts/disks;Диски;Диски;auto_rims
+/cars/parts/tires;Шины;Шины;auto_tires
+/cars/parts/wheels;Колеса;Колеса;auto_wheels
+/cars/parts/commercial;Для коммерческих автомобилей;Запчасти для коммерческих автомобилей;auto_spare_com
+;;Автомобильные аккумуляторы для коммерческого транспорта;auto_accumulator_commtrans
+/cars/parts/audio;Аудио- и видеотехника;Автомобильные видеорегистраторы;dvr
+;;Аудио-видеотехника;auto_audio_video
+;;Автоакустика;auto_acustic
+;;Автотелевизоры;auto_tv
+;;Антенны;antennas
+;;FM-трансмиттеры;fm-transmitters
+;;Устройства громкой связи; speakerphones
+;;Радар-детектор; radar-detector
+;;Камеры заднего вида;rearview-cameras
+;;Автоусилители;auto_amplifier
+;;Автомагнитолы;auto_recorder
+/cars/parts/optics;Стекла и оптика;Стекла и оптика;auto_optics
+/cars/parts/accessories;Автокосметика и аксессуары ;Щетки и скребки;auto_blade
+;;Аксессуары для автотехники;access_autotech
+;;Инверторы; inventors
+;;Насосы (компрессоры);auto_pump
+;;Багажники, боксы, крепления;auto_box
+;;Автомобильные холодильники;auto_refrigerator
+;;Механические блокираторы;mechanic_blocker
+;;наборы инструментов;auto_instrument_set
+;;Автопылесосы;auto_vacuum
+;;Домкраты;tire_jack
+;;Буксировочные тросы;towing-rope
+;;Парковочные радары; parking-radars
+;;Средства для ухода за авто; auto_care
+;;Автомойки;auto_washer
+/cars/parts/moto;Для мотоциклов и мопедов;Запчасти для мотоциклов и мопедов;auto_spares_moto
+;Недвижимость;;
+;Квартиры;;
+/real-estate/apartments-sale/new;Новостройки;Квартиры в новостройках;realty_new
+/real-estate/apartments-sale/secondary;Вторичный рынок;Квартиры продажа;realty_sell
+/real-estate/rent;Квартиры. Аренда;Квартиры аренда;realty_rent
+/real-estate/rooms-sale;Комнаты и доли. Продажа;Комнаты и доли продажа;realty_rooms_sell
+/real-estate/rooms-rent;Комнаты. Аренда;Комнаты аренда;realty_rooms_rent
+;Дома, дачи, участки;;
+/real-estate/out-of-town/houses;Дома, дачи;Дома, дачи;realty_house
+/real-estate/out-of-town/lands;Участки;Участки;realty_land
+/real-estate/out-of-town/cottage;Коттеджные поселки;Коттеджные поселки;realty_cottage
+/real-estate/out-of-town-rent;Дома, дачи. Аренда;Дома, дачи аренда;realty_house_rent
+;Коммерческая недвижимость;;
+/real-estate/commercial/offices;Офисы (аренда);Офисы аренда;realty_office_rent
+/real-estate/commercial/retail;Торговля и сервис (аренда);Торговля и сервис. Аренда.;realty_trading_rent
+/real-estate/commercial/production-warehouses;Производство и склады (аренда);Производство и склад аренда;realty_warehouse_rent
+/real-estate/commercial/eating;Кафе. Бары. Рестораны (аренда);Кафе, бар, ресторан аренда;realty_bar_rent
+/real-estate/commercial/houses;Здания и особняки (аренда);Здания и особняки аренда;realty_houses_comm_rent
+/real-estate/commercial/misc;Другого и свободного назначения (аренда);Недвижимость комм. другая аренда;realty_comm_other_rent
+/real-estate/commercial-sale/offices;Офисы (продажа);Офисы продажа;realty_office_sell
+/real-estate/commercial-sale/retail;Торговля и сервис  (продажа);Торговля и сервис;realty_trading
+/real-estate/commercial-sale/production-warehouses;Производство и склады  (продажа);Производство и склад;realty_warehouse
+/real-estate/commercial-sale/eating;Кафе. Бары. Рестораны  (продажа);Кафе, бар, ресторан;realty_bar
+/real-estate/commercial-sale/houses;Здания и особняки  (продажа);Здания и особняки;realty_houses_comm
+/real-estate/commercial-sale/misc;Другого и свободного назначения  (продажа); Недвижимость комм. другая;realty_comm_other
+;Гаражи, стоянки;;
+/real-estate/garage-rent/parking;Машиноместо  (аренда);Машиноместо аренда;realty_car_rent
+/real-estate/garage-rent/stall;Гаражи и боксы (аренда);Гаражи и боксы аренда;realty_garage_rent
+/real-estate/garage/parking;Машиноместо (продажа);Машиноместо;realty_car
+/real-estate/garage/stall;Гаражи и боксы (продажа);Гаражи и боксы;realty_garage
+;Спрос;;
+/real-estate/spros/live;Жилая (спрос);Жилая спрос;realty_living_spros
+/real-estate/spros/commercial;Коммерческая;Недвижимость комм. спрос;realty_comm_demand
+/real-estate/spros/out-of-town;Загородная;Дома, дачи спрос;realty_land_demand
+/real-estate/spros/garage;Гаражи и стоянки;Гаражи спрос;realty_car_demand
+/real-estate/services;Услуги;Услуги недвижимости;realty_service
+/real-estate/exchange;Обмен;Обмен недвижимости;realty_change
+/real-estate/other;Другое;Недвижимость другая;realty_other
+;Электроника и техника;;
+/electronics-technics/vacuum;Пылесосы;Пылесосы;vacuum_cleaner
+/electronics-technics/bookreader;Электронные книги;Электронные книги;bookreader
+;Кухонная техника;;
+/electronics-technics/kitchen/refrigerators;Холодильники;Холодильники;refrigerator
+/electronics-technics/kitchen/microwaves;Микроволновые печи;Микроволновки;microwave
+/electronics-technics/kitchen/cooking-panels;Плиты и варочные панели;Плиты;coocker
+;;Рабочие поверхности; cock_panel
+;;Духовки; inbuilt_oven
+/electronics-technics/kitchen/washing;Посудомоечные машины;Посудомоечные машины;dishwasher
+/electronics-technics/kitchen/combines;Кухонные комбайны;Кухонные комбайны; kithen_machine
+/electronics-technics/kitchen/electric-kettles;Электрочайники;Электрочайники;kettle
+/electronics-technics/kitchen/coffee-makers;Кофеварки и кофемашины;Кофеварки и кофемашины;coffeemachine
+/electronics-technics/kitchen/coffee-grinders;Кофемолки;Кофемолки; coffegrinder
+/electronics-technics/kitchen/mixers;Миксеры, блендеры;Миксер;mixer
+;; Блендер;blender
+/electronics-technics/kitchen/toasters;Тостеры;Тостер;toaster
+/electronics-technics/kitchen/double-boilers;Пароварки;Пароварки;steamcoocker
+/electronics-technics/kitchen/deep-fryers;Фритюрницы; Фритюрницы; deepfryer
+/electronics-technics/kitchen/bread-oven;Хлебопечки;Хлебопечки;bakingmachine
+/electronics-technics/kitchen/electrogrills;Электрогрили;Электрогрили; electrogrill
+/electronics-technics/kitchen/juice-extractors;Соковыжималки;Соковыжималки;juicer
+/electronics-technics/kitchen/meat-grinders;Мясорубки;Мясорубки; meatchopper
+/electronics-technics/kitchen/scales;Кухонные весы;Весы кухонные;scales
+/electronics-technics/kitchen/water-treating-filters;Фильтры для очистки воды и картриджи;Картридж;cartrige
+;;Фильтры для воды;water-filter
+/electronics-technics/kitchen/hoods;Вытяжки; Вытяжки;airvent
+/electronics-technics/kitchen/other;Прочее;Другая кухонная техника;other_kitchen
+;Аудио, Видео;;
+/electronics-technics/tv-audio-dvd/tv;Телевизоры и плазменные панели;Телевизоры;tv
+;;Плазменные панели;pdp
+/electronics-technics/tv-audio-dvd/video-dvd;Видеоплееры и рекордеры - dvd;Видеоплееры и рекордеры - DVD;dvd
+/electronics-technics/tv-audio-dvd/video-vhs;Видеоплееры и рекордеры - vhs;Видеоплееры и рекордеры - VHS;vhs
+/electronics-technics/tv-audio-dvd/cameras;Видеокамеры;Видеокамеры;videocamera
+/electronics-technics/tv-audio-dvd/musical-centres;Проигрыватели и музыкальные центры;Проигрыватели и музыкальные центры;player
+/electronics-technics/tv-audio-dvd/house-cinemas;Домашние кинотеатры;Домашние кинотеатры; home_cinema
+/electronics-technics/tv-audio-dvd/acoustics;Акустические системы;Акустические системы;acoustic_system
+/electronics-technics/tv-audio-dvd/receivers;Ресиверы;Ресиверы;receiver
+/electronics-technics/tv-audio-dvd/amplifiers;Усилители;Усилители;amplifier
+/electronics-technics/tv-audio-dvd/karaoke;Караоке;Караоке;karaoke
+/electronics-technics/tv-audio-dvd/tape-recorders;Магнитолы;Магнитолы;recorder
+/electronics-technics/tv-audio-dvd/audioplayers;Аудиоплееры;Аудиоплееры; audioplayer
+/electronics-technics/tv-audio-dvd/dictophones;Диктофоны;Диктофоны; dictophone
+/electronics-technics/tv-audio-dvd/ear-phones;Наушники;Наушники;headphones
+/electronics-technics/tv-audio-dvd/radio-receivers;Радиоприемники;Радиоприемники;radio
+/electronics-technics/tv-audio-dvd/satellite-tv;Спутниковое тв;Спутниковое ТВ; satellite_tv
+/electronics-technics/tv-audio-dvd/audio-video-accessories;Аксессуары для аудио-видео;Аксессуары для аудио-видео; access_audio
+/electronics-technics/tv-audio-dvd/other;Другое;Прочие аудио-видео товары;other_audio_video_goods
+;Стиральные машины ;;
+/electronics-technics/washing-machines/washing;Стиральные машины;Стиральные машины;washer
+/electronics-technics/washing-machines/drying;Сушильные машины;Сушильные машины;dryer
+;Климатическая техника;;
+/electronics-technics/climatic-technics/air-conditioning;Кондиционеры;Кондиционеры;conditioner
+/electronics-technics/climatic-technics/fans;Вентиляторы;Вентиляторы;pc_fan
+/electronics-technics/climatic-technics/water-heaters;Водонагреватели;Водонагреватели, бойлеры;boiler
+/electronics-technics/climatic-technics/heating-devices;Обогревательные приборы;Обогревательные приборы;heater
+/electronics-technics/climatic-technics/air-purification-systems;Системы очистки воздуха;Системы очистки воздуха;air_cleaner
+/electronics-technics/climatic-technics/thermometers-meteorological-stations;Термометры и метеостанции;Термометры и метеостанции;termometer
+;Игры, игровые приставки;;
+/electronics-technics/games/game-consoles;Игровые приставки;Игровые приставки;tv_game
+/electronics-technics/games/games-for-consoles;Игры для приставок;Игры для приставок;tv_games
+;Индивидуальный уход ;;
+/electronics-technics/individual-care/razors-trimmers;Бритвы, триммеры;Бритвы, триммеры;razor
+/electronics-technics/individual-care/hair;Для укладки волос;Приборы для укладки волос;hairsetter
+/electronics-technics/individual-care/hairstyle;Для стрижки волос;Машинки для стрижки волос; haircutter
+/electronics-technics/individual-care/epilators;Эпиляторы;Эпиляторы;epilator
+/electronics-technics/individual-care/cosmetic-equipment;Косметические приборы;Косметические приборы; cosmetic_device
+/electronics-technics/individual-care/toothbrushes;Зубные щетки;Зубные щетки;toothbrush
+/electronics-technics/individual-care/scales;Весы напольные;Весы напольные;sales_big
+/electronics-technics/gps-navigators;GPS-навигаторы;GPS-навигаторы;gps
+;Гладильное и швейное оборудование;;
+/electronics-technics/ironing-sewing-equipment/irons;Утюги ;Утюги;iron
+/electronics-technics/ironing-sewing-equipment/sewing-machines;Швейные машины ;Швейные машины;sew_machine
+/electronics-technics/ironing-sewing-equipment/knitting-machine;Вязальные машины ;Вязальные машины;knitting_machine
+/electronics-technics/ironing-sewing-equipment/overlock;Оверлоки ;Оверлоки;zigzagger
+/electronics-technics/repair/;Ремонт и сервис электроники и бытовой техники;Ремонт и сервис электроники и бытовой техники;electro_repair_service
+/electronics-technics/other;Другое;Другая электроника и бытовая техника;other_electronic
+;Компьютерная техника;;
+;Ноутбуки;;
+/computers-devices/notebooks/notebooks;Ноутбуки;Ноутбуки;notebooks
+/computers-devices/notebooks/netbooks_umpc;Нетбуки и UMPC;Нетбуки и UMPC;netbooks
+/computers-devices/notebooks/cases_for_notebooks;Сумки и чехлы для ноутбуков;Сумки и чехлы для ноутбуков;noutebooks_case
+/computers-devices/notebooks/accessories;Аксессуары для ноутбуков ;Аксессуары для ноутбуков;access_notebook
+/computers-devices/desktops;Настольные компьютеры;Настольные компьютеры;desktop
+;КПК;;
+/computers-devices/pdas_communicators/pda;КПК;КПК; pda
+/computers-devices/tablet;Планшеты;Планшеты;tablet
+/computers-devices/servers;Серверы;Серверы;server
+/computers-devices/pdas_communicators/accessories;Аксессуары для КПК ;Аксессуары для КПК;access_pda
+;Мультимедиа;;
+/computers-devices/multimedia/acoustics_pc;Акустика для ПК;Акустика для ПК;pc_acoustic
+/computers-devices/multimedia/headphones_microphones;Наушники и микрофоны;Наушники и микрофоны для ПК; pc_headphone
+/computers-devices/multimedia/webcams;Веб-камеры;Веб-камеры;web_camera
+/computers-devices/multimedia/graphic_tablets;Графические планшеты;Графические планшеты;graphic_tablet
+/computers-devices/multimedia/tv-tuners;TV-тюнеры;TV-тюнеры;tv_tuner
+/computers-devices/multimedia/midi_keyboards;MIDI-клавиатуры;MIDI-клавиатуры;midi_keyboard
+/computers-devices/multimedia/projectors;Проекторы;Проекторы;projector
+/computers-devices/multimedia/videoconferences;Оборудование для видеоконференций;Оборудование для видеоконференций;conference_equipment
+;Мониторы;;
+/computers-devices/monitors/lcd;LCD (ЖК);Мониторы ЖК;lcd
+/computers-devices/monitors/crt;ЭЛТ;Мониторы ЭЛТ;crt
+;Принтеры, сканеры, копиры;;
+/computers-devices/printers/printers;Принтеры;Принтеры;printer
+/computers-devices/printers/multifunction;Многофункциональные устройства;МФУ (принтер-сканер-копир-факс);mfp
+/computers-devices/printers/copiers;Сканеры;Сканеры;scanner
+/computers-devices/printers/scanners;Копиры;Копиры;copy
+/computers-devices/printers/other;Другое;Другая копировальная техника;other_copir
+;Flash-накопители ;;
+/computers-devices/flash_drives/memory_cards;Карты памяти;Карты памяти;memory_card
+/computers-devices/flash_drives/usb_flash_disks;USB flash-диски;USB flash-диски;usb_flash
+/computers-devices/flash_drives/card_readers;Кард-ридеры;Кард-ридеры;cardreader
+;Расходные материалы;;
+/computers-devices/consumables/disks;Диски, дискеты, кассеты;Диски, дискеты, кассеты;diskette
+/computers-devices/consumables/cartridges;Картриджи;Картриджи;cartridge
+/computers-devices/consumables/paper_film;Бумага и пленка;Бумага и пленка;paper
+/computers-devices/consumables/other;Другое;Другие расходные материалы;other_suppliers
+;Комплектующие ;;
+/computers-devices/hardware/motherboards;Материнские платы;Материнские платы;motherboard
+/computers-devices/hardware/video_cards;Видеокарты;Видеокарты;videocard
+/computers-devices/hardware/processors;Процессоры;Процессоры;processor
+/computers-devices/hardware/cases;Корпуса;Корпуса ПК;pc_case
+/computers-devices/hardware/psu;Блоки питания;Блоки питания ПК;power_supply
+/computers-devices/hardware/memory_modules;Модули памяти;Модуль памяти ПК; pc_memory
+/computers-devices/hardware/hard_drives;Жесткие диски (HDD и SSD);Жесткие диски (HDD и SSD);hdd
+/computers-devices/hardware/fans;Вентиляторы;Вентиляторы ПК;pc_fan
+/computers-devices/hardware/dvd;Blu-ray, CD-, DVD- и FDD-приводы;FDD-привод;fdd_drive
+;;CD-привод;cd_drive
+;;DVD-привод; dvd_drive
+;;Blu-ray привод;blu-ray_drive
+/computers-devices/hardware/sound_cards;Звуковые карты;Звуковые карты;souncard
+/computers-devices/hardware/other;Другое;Другие компьютерные комплектующие;other_comp_complects
+/computers-devices/network;Сетевое оборудование;Сетевое оборудование;network_equipment
+;Программное обеспечение и игры ;;
+/computers-devices/software_games/antiviruses;Антивирусы и безопасность; Антивирусы и безопасность ПО;antivirus
+/computers-devices/software_games/databases;Базы данных;Базы данных;database
+/computers-devices/software_games/accounting;Бухгалтерия;Бухгалтерские программы;finance
+/computers-devices/software_games/web_design;Веб-дизайн;Веб-дизайн;web-design
+/computers-devices/software_games/pc_games;Игры для pc;Игры для PC;pc_games
+/computers-devices/software_games/office_software;Системные и офисные программы;Системные и офисные программы;system_soft
+/computers-devices/software_games/programming;Программирование;Программирование;programming
+/computers-devices/software_games/training_programs;Обучающие и справочные программы;Обучающие и справочные программы;courceware
+/computers-devices/software_games/dictionaries_translators;Словари и переводчики;Словари и переводчики;dictionaries
+/computers-devices/software_games/other_software;Другое по;Другое ПО;other_software
+;Источники питания ;;
+/computers-devices/power/ups;UPS;UPS;ups_filter
+/computers-devices/power/network_filters_stabilizers;Сетевые фильтры и стабилизаторы;Сетевые фильтры и стабилизаторы;linefilter
+/computers-devices/keyboards;Клавиатуры, мыши, игровые манипуляторы;Клавиатуры, мыши, игровые манипуляторы;keyboard
+/computers-devices/computer_accessories;Компьютерные аксессуары;Аксессуары для компьютеров;access_comp
+/computers-devices/repair;Ремонт и сервис компьютерной техники;Ремонт и сервис компьютерной техники;comp_repair_service
+/computers-devices/other;Другое;Другая компьютерная техника;other_comp
+;Телефоны и связь;;
+;Мобильная связь;;
+/communication/mobile/mobiles;Мобильные телефоны;Мобильные телефоны;mobile_phone
+/communication/mobile/contracts;Контракты;Контракты на мобильную связь;mobile_contract
+/communication/mobile/other;Другое;Другие мобильные телефоны;other_mobile
+;Для дома и офиса ;;
+/communication/office-and-home/radiotelephones;Радиотелефоны;Радиотелефоны;radiophone
+/communication/office-and-home/stationary;Стационарные телефоны;Стационарные телефоны;table_phone
+/communication/office-and-home/mini-pbx;Мини-АТС;Мини-АТС;mini_ASC
+/communication/office-and-home/faxes;Факсы;Факсы;fax
+/communication/devices;Рации, переговорные устройства;Рации, переговорные устройства;radiostation
+/communication/accessories;Аксессуары для телефонов ; Аксессуары для телефонов;aceess_transmit
+/communication/other;Другое;Другие телефоны и связь;other_phone
+/communication/repair;Ремонт и сервис телефонов и средств связи ;Ремонт и сервис телефонов;phone_repair_service
+;Фото, оптика;;
+;Фототехника;;
+/photo/phototechnics/digital;Фотоаппараты цифровые;Фотоаппараты цифровые;digital_photo
+/photo/phototechnics/film;Фотоаппараты пленочные;Фотоаппараты пленочные;photo
+/photo/phototechnics/flashes;Вспышки;Вспышки;lighter
+/photo/phototechnics/tripods;Штативы;Штативы;tripod
+/photo/phototechnics/lenses;Объективы;Объективы;objective
+/photo/phototechnics/frames;Цифровые фоторамки;Цифровые фоторамки;digital_frame
+/photo/phototechnics/accessories;Аксессуары для фототехники ;Аксессуары для фототехники;access_photo
+/photo/phototechnics/other;Другое;Другая фототехника;other_photo
+;Оптика ;;
+/photo/optics/binoculars;Бинокли;Бинокли;binocular
+/photo/optics/microscopes;Микроскопы;Микроскопы;microscope
+/photo/optics/nightvision;Приборы ночного видения;Приборы ночного видения;noctovisor
+/photo/optics/spyglasses;Подзорные трубы;Подзорные трубы;monocular
+/photo/optics/telescopes;Телескопы;Телескопы;telescope
+/photo/optics/accessories;Аксессуары для оптики ;Аксессуары для фотооптики; access_photooptic
+/photo/optics/other;Другое;Другая оптика; other_photooptic
+/photo/other;Другое;Другие фототовары; other_photoware
+/photo/repair;Ремонт и сервис фототехники;Ремонт и сервис фототехники;photo_repair_service
+;Строительство и ремонт;;
+;Инструменты ;;
+/building/instruments/saws;Пилы, электро, бензопилы;Пилы, электро, бензопилы;saw
+/building/instruments/gas;Бензоинструменты;Бензопылесосы;benzopylesosy
+;;Бензобуры;benzobury
+;;Бензорезы;benzorezy
+;;Другие бензоинструменты;other_fuel_instrument
+/building/instruments/pneumatic;Пневмоинструменты;Пневмопылесосы; pnevmopylesosy
+;;Пневмобормашины;pnevmobormashiny
+;;Пневмокраскораспылители;pnevmokraskoraspredeliteli
+;;Пневморубанки;pnevmorubanki
+;;Пневмодолота;pnevmodolota
+;;Пескоструйные пистолеты;peskostrujnyje_pistolety
+;;Пневмостеплеры;pnevmosteplery
+;;Другие пневмоинструменты;other_air_instrument
+/building/instruments/handtools;Ручные инструменты;Ручные инструменты;hand_instrument
+/building/instruments/measuring;Измерительные инструменты;Измерительные инструменты;measure_instrument
+/building/instruments/gear;Оснастка к инструментам;Оснастка к инструментам;rigging
+/building/instruments/stepladders;Стремянки, приставные лестницы;Стремянки;stepladder
+/building/instruments/other;Прочее;Другие инструменты;other_instrum
+/building/instruments/electric;Электроинструменты;Воздуходувки;vozdyhodyvki
+;;Бормашины;bormashiny
+;;Краскораспылители;kraskoraspyliteli
+;;Электроножницы;electronoznicy
+;;Электрорубанки;electrorybanki
+;;Электростеплеры;electrosteplery
+;;Точильные станки;tochilnyje_instruments
+;;Термопистолеты;termopistolety
+;;Штроборезы;shtroborezy
+;;Фрезерные машины;frezernyje_mashiny
+;;Дрели и шуруповерты;drill
+;;Перфораторы;perforator
+;;Лобзики;lobziki
+;;Шлифовальные машины;polisher
+;;Другие электроинструменты;other_electric_instrument
+;Двери, окна, балконы, лестницы ;;
+/building/elements/doors;Двери;Двери;doors
+/building/elements/windows;Окна, балконы;Окна, балконы;window
+/building/elements/ladders;Лестницы и их элементы;Лестницы и их элементы;ladder
+/building/elements/accessories;Замки, фурнитура и комплектующие;Замки;doorlock
+;;Комплектующие к замкам и фурнитуре;doorlock_access
+;;Фурнитура;doorlock_furniture
+;Материалы ;;
+/building/materials/finishes;Облицовочные и отделочные;Облицовочные и отделочные;revetment
+/building/materials/paints;Лакокрасочные;Лакокрасочные;colours
+/building/materials/fasteners;Элементы крепежа;Крепеж;fastener
+/building/materials/concrete;ЖБИ, бетон, кирпич, сухие смеси;Бетон;concrete
+;;Кирпич;brick
+;;Сыпучие стройматериалы и смеси;sand
+;;ЖБИ;ferroconcrete
+/building/materials/concrete;Лесопиломатериалы, столярные изделия;Пиломатериалы, столярные изделия;saw_material
+/building/materials/metal;Металлопрокат, арматура, металлоизделия;Металлопрокат, арматура, металлоизделия;metal_rolls
+/building/materials/roof-frontage;Кровельные и фасадные материалы;Кровельные и фасадные материалы;roof_front
+/building/materials/isolation;Изоляционные материалы;Изоляционные материалы;isolation
+/building/materials/glass;Стекло, стеклоизделия, светопрозрачные пластики;Стекло, стеклоизделия, светопрозрачные пластики;glass
+/building/materials/other;Прочие;Другие строительные материалы;other_build_material
+;Сантехника ;;
+/building/plumbing/mixers;Смесители;Смесители;mixer_tap
+/building/plumbing/sinks;Кухонные мойки;Кухонные мойки;sink
+/building/plumbing/basins;Раковины, умывальники;Раковины, умывальники;honeycomb
+/building/plumbing/toilets;Унитазы, писсуары, биде;Унитазы, писсуары, биде;bowl
+/building/plumbing/baths;Ванны;Ванны;bath
+/building/plumbing/douchecabins;Душевые кабины;Душевые кабины;shower
+/building/plumbing/pools;Бассейны;;
+/building/plumbing/towelrails;Полотенцесушители;Полотенцесушители;towel_dryer
+/building/plumbing/pipes;Трубы, сантехническая арматура;Трубы, сантехническая арматура;tube
+/building/plumbing/other;Прочее;Прочая сантехника;plumbing_other
+/building/plumbing/heaters;Водонагреватели;Водонагреватели, бойлеры;boiler
+;Электрика;;
+/building/electrics/cables;Кабели, провода;Кабели;cable
+/building/electrics/powerstations;Электростанции;Электростанции;electrostation
+/building/electrics/other;Прочее;Прочие электротовары;electrics_other
+;Отопление ;;
+/building/heating/radiators;Радиаторы, конвекторы;Радиаторы, конвекторы;radiator
+/building/heating/systems;Системы отопления;Системы отопления;heater_system
+/building/heating/fireplaces;Камины, печи, дымоходы;Камины, печи;chimney
+;;Дымоходы;chimneys
+/building/heating/other;Прочее;Другое отопление;other_heating
+/building/constructions;Готовые конструкции:дома, бани, срубы;Готовые конструкции;ready_construction
+/building/pumps;Насосы;Насосы;pump
+/building/protection;Средства индивидуальной защиты;Средства индивидуальной защиты;ppe
+/building/ventilation;Вентиляционные системы;Вентиляционные системы;air_system
+/building/other;Другое;Строительство и ремонт другое;building_repair_other
+;Все для дачи;;
+;Садовая техника ;;
+/garden/equipment/grass_cutter;Газонокосилки, триммеры;Газонокосилки;grass_cutter
+/garden/equipment/pressure_washers;Мойки высокого давления;Мойки высокого давления;high_pressure_washer
+/garden/equipment/tillers;Культиваторы, мотоблоки;Культиваторы, мотоблоки;tillers
+/garden/equipment/snow_plowers;Снегоуборщики;Снегоуборщики;snow_plowers
+/garden/equipment/other;Другое;Садовая техника другое;other_garden_equipment
+;Садовые инструменты, инвентарь ;;
+/garden/tools/handtools;Садовые инструменты;Садовые инструменты;handtools
+/garden/tools/wheelbarrows;Тачки, тележки;Тачки, тележки;wheelbarrows
+/garden/tools/watering;Товары для полива;Товары для полива;watering
+/garden/tools/repellers;Средства против насекомых и грызунов;Средства отпугивания и самообороны;repellers
+/garden/tools/other;Другое;Садовые инструменты другое;gardentools_other
+;Товары для садоводства ;;
+/garden/gardening/coldframes;Теплицы, парники;Теплицы, парники;coldframes
+/garden/gardening/grounds;Грунт, удобрения;Удобрения;fertilizers
+/garden/gardening/seeds;Посадочный материал;Посадочный материал;seeds
+/garden/gardening/other;Другое;Садоводство другое;gardening_other
+;Садовая мебель, сантехника, декор ;;
+/garden/elements/furniture;Мебель;Садовая мебель;garden_furniture
+/garden/elements/toilets;Биотуалеты, рукомойники;Биотуалеты;garden_toilets
+/garden/elements/decorations;Декор;Садовый декор;garden_decorations
+/garden/elements/other;Другое;Садовая мебель другое;garden_furniture_other
+;Грили, мангалы ;;
+/garden/grill/grills;Грили, мангалы;Грили, мангалы;grills
+/garden/grill/skewers;Решетки, шампуры;Решетки для гриля;skewers
+/garden/grill/coal;Уголь, средства розжига;Уголь для гриля;coal
+/garden/grill/other;Другое;Гриль другое;grills_other
+;Для бань и саун ;;
+/garden/bany/furniture;Мебель для бани, сауны;Мебель для бани;bany_furniture
+/garden/bany/heaters_house;Печи для бань, саун;Печи для бань;heaters_bani
+;;Печи для дачи;heaters_house
+;;Топки;topki
+/garden/bany/kupels;Купели;Купели;kupels
+/garden/bany/accessories;Аксессуары для бань и саун;Принадлежности для бани;bany_accessories
+/garden/bany/other;Другое;Бани другое;bany_other
+;Бассейны и принадлежности ;;
+/garden/pool/pools;Бассейны;Бассейны;pool
+/garden/pool/equipment;Оборудование для бассейнов;Оборудование для бассейнов;pools_equipment
+/garden/pool/chemicals;Химические средства;Химические средства для бассейнов;pools_chemicals
+/garden/pool/accessories;Аксессуары для бассейнов;Аксессуары для бассейнов;pools_accessories
+/garden/pool/other;Другое;Бассейны другое;pools_other
+/garden/other;Другое;Для дачи_другое;garden_goods
+;Оборудование;;
+/equipment/trade;Торговое и холодильное оборудование;Холодильное оборудование;equipment_frige
+;;Торговые весы;equipment_scales
+;;Кассовые аппараты;equipment_cash
+;;Принтеры чеков;equipment_lable_printers
+;;Штрих-код сканнеры;equipment_barcode_scanners
+;;Детекторы валют;equipment_сurrency_detector
+;;Cчетчики купюр;equipment_count_bills
+;;Платёжные терминалы;equipment_payment_terminal
+;;Торговые автоматы;equipment_vending_machine
+;;Торговые сооружения;equipment_stalls
+;;Оборудование для упаковки пищевых продуктов;equipment_package_food
+;;Витрины, стеллажи;equipment_racks
+;;Другое торговое и холодильное оборудование;trade_equipment
+/equipment/cosmetology;Оборудование для сферы услуг;Тепловое оборудование для кафе;thermal_equipment
+;;Электрооборудование для кафе;electric_equipment
+;;Прочее оборудование для кафе, ресторанов;other_electric_equipment
+;;Косметологическое и медицинское оборудование;cosmetics_equipment
+;;Швейное оборудование;equipment_sew_machine
+;;Оборудование для автосервиса;equipment_car
+;;Чистящая и моющая техника;cleaning_equipment
+;;Другое оборудование для сферы услуг;food_equipment
+/equipment/building;Строительное оборудование;Сварочное оборудование;equipment_welding
+;;Грузоподъемное оборудование;equipment_lifting
+;;Строительные компрессоры;equipment_compressor
+;;Оборудование для приготовления раствора;equipment_concrete
+;;Строительные леса;equipment_tower
+;;Генераторы;equipment_generator
+;;Другое строительное и ремонтное оборудование;prod_equipment
+/equipment/production;Станки, производственное и обрабатывающее оборудование;Оборудование по утилизации и переработке;equipment_recycling
+;;Оборудование для полиграфии;equipment_polygraphy
+;;Оборудование для промышленной пищевой обработки;equipment_industry_food
+;;Оборудование для промышленной упаковки;equipment_industry_packaging
+;;Деревообрабатывающие станки;equipment_woodworking
+;;Металлообрабатывающие станки;equipment_metalworking
+;;Другие станки и производственное оборудование;engineer_tool
+/equipment/safety;Системы охраны и безопасности;Оборудование для видеонаблюдения;equipment_video
+;;Оборудование для охранной сигнализации;equipment_alarm
+;;Сейфы;equipment_safe
+;;Контроль доступа;equipment_access
+;;Другие системы охраны и безопасности;safety_equipment
+/equipment/other;Другое;Прочее оборудование;other_equipment
+;Товары для детей;;
+/children/baby-clothes;Детская одежда;Детская одежда;baby-clothes
+/children/baby-carriage;Коляски;Коляски;baby-carriage
+/children/baby-shoes;Детская обувь;Детская обувь;baby-shoes
+/children/baby-carseat;Автокресла;Автокресла;baby-carseat
+/children/baby-furniture;Детская мебель ;;
+/children/baby-furniture/baby-bed;Кроватки;Кроватки;baby-bed
+/children/baby-furniture/changing-table;Пеленальные столики, комоды;Пеленальные столики;changing-table
+;;Комоды;commode
+/children/baby-furniture/baby-chair;Стульчики для кормления, столы;Стульчики для кормления, столы;baby-chair
+/children/baby-furniture/playpen;Манежи;Манежи;playpen
+/children/baby-furniture/other;Прочее;Другая детская мебель;other_baby_furnish
+;Товары для малышей ;;
+/children/babyware/baby-feed;Кормление;Кормление;baby-feed
+/children/babyware/bath-hygiene;Купание, гигиена;Купание, гигиена;bath-hygiene
+/children/babyware/nappy;Подгузники, пеленки;Подгузники, пеленки;nappy
+/children/babyware/baby-carrier;Рюкзаки, слинги, переноски;Рюкзаки, слинги, переноски;baby-carrier
+/children/babyware/baby-jumper;Ходунки, прыгунки, шезлонги;Ходунки, прыгунки, шезлонги;baby-jumper
+/children/babyware/other;Прочее;Прочие товары для малышей;baby-feed-other
+/children/toys;Игрушки;Игрушки;toys
+/children/baby-textile;Постельные принадлежности;Постельные принадлежности;baby-textile
+/children/baby-sportware;Спортивные товары;Спортивные товары;baby-sportware
+/children/mum-to-be;Для будущих мам;Для будущих мам;mum-to-be
+/children/schoolware;Товары для школы;Товары для школы;schoolware
+/children/other;Другие детские товары;Другие детские товары;baby-other
+;Бизнес и партнерство;;
+;Готовый бизнес ;;
+/business/business/ready-made-business;Бизнес под ключ;Готовый бизнес;business
+/business/business/franchising;Франшизы;Франчайзинг;franchising
+;Партнерство и сотрудничество ;;
+/business/collaboration/loans;Кредиты, займы;Кредиты, займы;finance_service
+/business/collaboration/partnership;Партнерство;Партнерство;partnership
+/business/collaboration/sales;Представительство, реализация;Представительство;sales
+/business/collaboration/other;Другое;Партнерство другое;other_partnership
+;Бизнес услуги ;;
+/business/business-services/legal;Юридическое сопровождение;Юридические услуги;law_service
+/business/business-services/book-keeping;Бухгалтерское, аудиторское сопровождение;Бухгалтерия, аудит, консалтинг;accountancy
+/business/business-services/credit;Помощь в получении кредита;Помощь в получении кредита;credit
+/business/business-services/finance;Финансовая помощь, консультации;Финансовая помощь;finance_help
+/business/business-services/advertisement-print;Реклама и полиграфия, печати и штампы;Реклама и полиграфия, печати и штампы;ads
+/business/business-services/other;Другие услуги;Другие бизнес услуги;business_service_other
+;Сырье, тара, товары оптом ;;
+/business/tara-materials/tara;Инвентарь, тара;Тара;tara
+/business/tara-materials/materials;Сырье, вторичная переработка;Сырье;raw_materials
+/business/tara-materials/goods;Товары оптом;Товары оптом;goods_wholesale
+/business/tara-materials/other;Другое;Другое товары для бизнеса;tara_other
+;Мебель, интерьер, обиход;;
+;Мебель для гостиной ;;
+/furniture-interior/living-room/composition;Стенки, модули;Гостиные стенки;composition
+/furniture-interior/living-room/tables;Столы, журнальные столики;Гостиные столики;tables
+/furniture-interior/living-room/racks;Стеллажи, полки, витрины;Гостиные полки;racks
+/furniture-interior/living-room/stands;Тумбы для ТВ;Тумбы под ТВ;stands
+/furniture-interior/living-room/other;Другое;Другая гостиная мебель;furniture
+;Мягкая мебель ;;
+/furniture-interior/upholstered-furniture/sofa;Диваны;Диваны;sofa
+/furniture-interior/upholstered-furniture/chairs;Кресла, пуфы, банкетки;Кресла;chairs
+/furniture-interior/upholstered-furniture/other;Другое;Другая мягкая мебель;upholstered-furniture_other
+;Мебель для спальни ;;
+/furniture-interior/bedroom/composition;Спальные гарнитуры;Спальные гарнитуры;bedroom_composition
+/furniture-interior/bedroom/beds;Кровати;Кровати;beds
+/furniture-interior/bedroom/cupboards;Шкафы;Спальные шкафы;cupboards
+/furniture-interior/bedroom/stands;Тумбы, комоды, туалетные столики;Спальные столики;bedroom_stands
+/furniture-interior/bedroom/other;Другое;Другая мебель для спальни;bedroom_other
+;Мебель для кухни ;;
+/furniture-interior/kitchen/composition;Кухонные гарнитуры;Кухонные гарнитуры;kitchen_composition
+/furniture-interior/kitchen/corners;Кухонные уголки;Кухонные уголки;corners
+/furniture-interior/kitchen/cupboards;Кухонные шкафы, полки, столешницы;Кухонные шкафы;kitchen_cupboards
+/furniture-interior/kitchen/tables;Столы, стулья, столовые группы;Кухонные столы, стулья, столовые группы;kitchen_tables
+/furniture-interior/kitchen/other;Другое;Другая кухонная мебель;kitchen_other
+;Мебель для прихожей ;;
+/furniture-interior/hallway/composition;Готовые гарнитуры;Гарнитуры для прихожей;hallway_composition
+/furniture-interior/hallway/cupboards;Шкафы;Шкафы для прихожей;hallway_cupboards
+/furniture-interior/hallway/stands;Тумбы, полки для обуви;Тумбы для прихожей;hallway_stands
+/furniture-interior/hallway/other;Другое;Другая мебель для прихожей;hallway_other
+/furniture-interior/bathroom;Мебель для ванной комнаты;Мебель для ванной;bathroom
+/furniture-interior/computer-tables;Компьютерные столы и кресла;Компьютерные столы;computer-tables
+/furniture-interior/office-furniture;Офисная мебель;Офисная мебель;office-furniture
+;Предметы обихода ;;
+/furniture-interior/home-stuff/mattress;Матрасы;Матрасы;mattress
+/furniture-interior/home-stuff/textiles;Текстиль;Текстиль;textiles
+/furniture-interior/home-stuff/dishes;Посуда;Посуда;dishes
+/furniture-interior/home-stuff/other;Другое;Другие предметы обихода;home-stuff_other
+/furniture-interior/bathroom-items;Товары для ванной и туалета;Товары для ванной;bathroom-items
+/furniture-interior/cleaning;Товары для уборки дома;Товары для уборки;adtype_label
+/furniture-interior/other;Другая мебель;Другая мебель и предметы обихода;other_furniture
+/furniture-interior/repair;Ремонт мебели;Ремонт мебели;repair_furniture
+;Интерьер ;;
+/furniture-interior/interior/mirrors;Зеркала;Зеркала;mirrors
+/furniture-interior/interior/carpets;Ковры;Ковры;carpets
+/furniture-interior/interior/lights;Освещение;Освещение;lights
+/furniture-interior/interior/decorations;Элементы декора;Декор;interior_decorations
+/furniture-interior/interior/other;Другое;Предметы обихода другое;everyday_devices
+;Одежда, обувь, аксессуары;;
+/apparel-footwear/women-clothes;Женская одежда;Свитера, джемпера;sweater
+;;Брюки, джинсы, шорты женские;women-trousers
+;;Пальто;coat
+;;Женское нижнее бельё;women-underwear
+;;Другая женская одежда;other_women_clothes
+;;Блузки, рубашки, кофты;blouse
+;;Купальники;women-swimsuit
+;;Куртки;jacket
+;;Платья, сарафаны, туники;dress
+;;Шубы;fur
+;;Спортивная одежда для женщин;women-sportswear
+;;Юбки;skirt
+;;Другая верхняя одежда;outerwear
+;;Женские пиджаки;women_jacket
+;;Женские головные уборы;women_headdress
+;;Костюмы;women-suit
+;;Женские карнавальные костюмы;women_fancy_dress
+/apparel-footwear/men-clothes;Мужская одежда ;Мужские костюмы;men-suit
+;;Брюки, джинсы, шорты мужские;men-trousers
+;;Мужские карнавальные костюмы;men_fancy_dress
+;;Другая мужская одежда;other_men_clothes
+;;Рубашки;shirt
+;;Плавки, пляжные шорты;men-swimsuit
+;;Пиджаки;suit-jacket
+;;Футболки;t-shirt
+;;Спортивная одежда для мужчин;men-sportswear
+;;Верхняя одежда для мужчин;men-outerwear
+;;Нижнее бельё;men-underwear
+;;Мужские головные уборы;men_headdress
+;;Мужские свитера, джемпера;jumper
+/apparel-footwear/women-shoes;Женская обувь;Ботильоны;ankle-boots
+;;Ботинки;women-boots
+;;Другая женская обувь;other_women_shoes
+;;Туфли;women-shoes
+;;Босоножки;sandal
+;;Сапоги;high-shoes
+;;Угги;ugg
+;;Спортивная обувь для женщин;women-sportshoes
+/apparel-footwear/men-shoes;Мужская обувь;Мужские туфли;brogues
+;;Мужские ботинки;men-boots
+;;Спортивная обувь для мужчин;men-sportshoes
+;;Другая мужская обувь;other-men-shoes
+;Украшения, ювелирные изделия, бижутерия ;;
+/apparel-footwear/jewellery-bijou/jewellery;Ювелирные изделия;Ювелирные изделия;jewellery
+/apparel-footwear/jewellery-bijou/bijou;Бижутерия;Бижутерия;bijou
+/apparel-footwear/jewellery-bijou/other;Другие украшения;Другие украшения;other-jewellery
+;Аксессуары;;
+/apparel-footwear/accessories-men-women/watches;Наручные часы;Наручные часы;watches
+/apparel-footwear/accessories-men-women/bags;Сумки, чемоданы;Сумки;bags
+;;Чемоданы;case
+;;Барсетки;man_bag
+;;Клатчи;clutch
+;;Другие сумки;other_bags
+/apparel-footwear/accessories-men-women/other;Другие аксессуары;Другие аксессуары;other-accessorise
+;Все для свадьбы;;
+/apparel-footwear/wedding/wedding-dress;Свадебные платья;Свадебные платья;wedding-dress
+/apparel-footwear/wedding/wedding_shoes;Свадебная обувь;Свадебная обувь;wedding-shoes
+/apparel-footwear/wedding/bolero;Свадебные шубки, накидки;Свадебные шубки, накидки;bolero
+/apparel-footwear/wedding/suit;Костюмы, смокинги;Костюмы, смокинги;wedding-suit
+/apparel-footwear/wedding/wedding_accessories;Аксессуары для невесты;Аксессуары для невесты;wedding-accessories
+/apparel-footwear/wedding/other;Другое;Другие свадебные товары;other-wedding
+/apparel-footwear/other;Другое;Другая одежда;other-clothes
+;Книги, учебники, журналы;;
+/books-papers/fiction;Художественная литература;Художественная литература;art_literature
+/books-papers/study;Учебная литература;Учебная литература;cource_literature
+/books-papers/magazines;Журналы, газеты;Журналы, газеты;magazines
+/books-papers/comixes;Альбомы и комиксы;Альбомы и комиксы;album
+/books-papers/other;Другое;Другие печатные издания;other_literature
+;Музыка, искусство;;
+/arts-music/instruments;Музыкальные инструменты;Музыкальные инструменты;music
+/arts-music/recordings;Аудио-, видеозаписи;Аудиозапись;audio_tape
+;;Видеозапись;video_tape
+/arts-music/arts;Произведения искусства и антиквариат;Произведения искусства и антиквариат;art_antiques
+/arts-music/collections;Коллекционирование;Коллекционирование;collection
+/arts-music/other;Другое;Другие музыкальные товары и предметы искусства;other_music
+/arts-music/service;Реставрация и сервис;Реставрация и сервис музыкальных инструментов;music_repair_service
+;Спорт, туризм, отдых;;
+;Спортивные игры, виды спорта ;;
+/sports-tourism/sports/wintersport;Зимний инвентарь;Инвентарь для зимних видов спорта;wintersport_equipment
+/sports-tourism/sports/summersport;Летний инвентарь;Инвентарь для летних видов спорта;summersport_equipment
+/sports-tourism/sports/watersport;Водный спорт, дайвинг;Водный спорт, дайвинг;watersport_equip
+/sports-tourism/sports/table-games;Настольные игры;Настольные игры;table_games
+/sports-tourism/bicycles;Велосипеды;Велосипеды;bike
+;Снаряжение для рыбалки, охоты, активного отдыха ;;
+/sports-tourism/tourism/fishing;Рыбалка;Снаряжение для рыбалки;fishing_equipment
+/sports-tourism/tourism/outdoor;Туризм;Туристическое снаряжение;tourism_equipment
+/sports-tourism/tourism/other;Другое;Другое снаряжение для активного отдыха;activsport_other
+;Фитнес, атлетика, борьба ;;
+/sports-tourism/fitness/home-gym;Тренажеры, спорткомплексы;Тренажеры;home_gym
+/sports-tourism/fitness/athletic;Атлетика и фитнес;Снаряжение для атлетики и фитнеса;fitness_equipment
+/sports-tourism/fitness/boxing;Бокс, товары для единоборств;Снаряжение для бокса и единоборств;boxing_equipment
+/sports-tourism/travel;Экскурсии, туры, круизы;Путешествие;travel
+/sports-tourism/study;Обучения и занятия;Обучение и занятия спортом;sport_services
+/sports-tourism/other;Другое;Прочие спортивные товары;other_sport_goods
+;Услуги и деятельность;;
+;Строительные и ремонтные услуги ;;
+/services-business/building/construction;Cтроительно-монтажные работы;Строительство и монтаж;building_service
+/services-business/building/repair;Отделочные и ремонтные работы;Отделка и ремонт;repair_service
+/services-business/building/design;Проектирование и дизайн;Проектирование и дизайн;design_service
+/services-business/building/other;Другое;Другие строительно-ремонтные работы;building_other
+;Транспортные услуги и аренда ;;
+/services-business/transportation/moving;Грузоперевозки, переезды, грузчики;Грузоперевозки, грузчики;loaders
+/services-business/transportation/special;Аренда спецтехники и вывоз отходов;Аренда спецтехники;special_tech
+;;Вывоз отходов;domestics
+/services-business/transportation/hiring;Такси, аренда и прокат, пассажирские перевозки;Такси, аренда и прокат, пассажирские перевозки;auto_rental
+/services-business/transportation/other;Другое;Другие транспортные услуги;other_transport_service
+/services-business/equipment;Монтаж и ремонт оборудования;Монтаж и ремонт оборудования;repair_equipment
+/services-business/astrology;Астрология, магия, гадания;Астрология, магия, гадания;astrology
+/services-business/actions;Организация праздников, фото-, видеосъёмка;Организация праздников, фото-, видеосъёмка;holiday_organization
+/services-business/security;Безопасность, детективы;Безопасность, детективы;detectives
+/services-business/advocates;Адвокаты, нотариусы, специалисты;Адвокаты, нотариусы, специалисты;lawers
+/services-business/food;Питание, обеды с доставкой;Питание, обеды с доставкой;eating
+/services-business/internet;Услуги в Интернете;Услуги в Интернете;internet_service
+/services-business/real-estate;Агентства недвижимости;Агентства недвижимости;agency
+/services-business/data-processing;Набор и обработка информации;Набор и обработка информации;info_entering
+/services-business/clothes-repair;Ремонт и изготовление одежды и обуви;Индпошив одежды и обуви;sewing
+/services-business/documents;Помощь в оформлении документов;Помощь в оформлении документов;document_help
+/services-business/demand;Спрос;Услуги требуются;service_needed
+/services-business/translations;Услуги переводчиков;Услуги переводчиков;translators
+;Услуги для животных ;;
+/services-business/animals/veterinary;Ветеринария;Ветеринары;veterinary
+/services-business/animals/grooming;Стрижка;Стрижка животных;animal_haircut
+/services-business/animals/hotels;Питомники, зоогостиницы, няни, содержание;Присмотр за животными;animal_care
+/services-business/animals/other;Другие;Другие услуги для животных;other_animal_care
+/services-business/other;Другое;Прочие услуги;other_services
+;Работа и образование;;
+;Вакансии: поиск сотрудников;;
+/jobs-education/vacancies/communal;Бытовые и коммунальные услуги, муниципалитет;Вакансия;opening
+/jobs-education/vacancies/provision;Закупки и снабжение;Вакансия;opening
+/jobs-education/vacancies/entertainment;Индустрия отдыха и развлечений;Вакансия;opening
+/jobs-education/vacancies/it;Информационные технологии и интернет;Вакансия;opening
+/jobs-education/vacancies/beauty;Красота, фитнес, спорт;Вакансия;opening
+/jobs-education/vacancies/logistics;Логистика, склад, вэд;Вакансия;opening
+/jobs-education/vacancies/marketing-pr;Маркетинг, реклама, pr;Вакансия;opening
+/jobs-education/vacancies/medicine;Медицина и фармацевтика;Вакансия;opening
+/jobs-education/vacancies/real-estate;Недвижимость, риэлторство;Вакансия;opening
+/jobs-education/vacancies/nannies/;Няни, воспитатели, помощники в хозяйстве;Вакансия;opening
+/jobs-education/vacancies/education;Образование, наука, культура;Вакансия;opening
+/jobs-education/vacancies/assistance;Обслуживающий персонал, секретариат, ахо ;Вакансия;opening
+/jobs-education/vacancies/security;Охрана, безопасность;Вакансия;opening
+/jobs-education/vacancies/retail;Продажи;Вакансия;opening
+/jobs-education/vacancies/production;Промышленность, производство;Вакансия;opening
+/jobs-education/vacancies/horeca;Ресторанный бизнес, фастфуд;Вакансия;opening
+/jobs-education/vacancies/management;Руководители;Вакансия;opening
+/jobs-education/vacancies/print-media;Сми, издательство, полиграфия;Вакансия;opening
+/jobs-education/vacancies/insurance;Страхование;Вакансия;opening
+/jobs-education/vacancies/building;Строительство и архитектура;Вакансия;opening
+/jobs-education/vacancies/transport;Транспорт, автобизнес;Вакансия;opening
+/jobs-education/vacancies/tourism;Туризм, гостиничное дело;Вакансия;opening
+/jobs-education/vacancies/freelance;Удаленная работа;Вакансия;opening
+/jobs-education/vacancies/hr;Управление персоналом;Вакансия;opening
+/jobs-education/vacancies/finance;Финансы, бухгалтерия, банк;Вакансия;opening
+/jobs-education/vacancies/legal;Юриспруденция;Вакансия;opening
+/jobs-education/vacancies/other;Другие сферы деятельности;Вакансия;opening
+;Резюме: поиск работы;;
+/jobs-education/resumes/communal;Бытовые и коммунальные услуги, муниципалитет (вакансии);Резюме;resume
+/jobs-education/resumes/provision;Закупки и снабжение;Резюме;resume
+/jobs-education/resumes/entertainment;Индустрия отдыха и развлечений;Резюме;resume
+/jobs-education/resumes/it;Информационные технологии и интернет;Резюме;resume
+/jobs-education/resumes/beauty;Красота, фитнес, спорт;Резюме;resume
+/jobs-education/resumes/logistics;Логистика, склад, вэд;Резюме;resume
+/jobs-education/resumes/marketing-pr;Маркетинг, реклама, pr;Резюме;resume
+/jobs-education/resumes/medicine;Медицина и фармацевтика;Резюме;resume
+/jobs-education/resumes/real-estate;Недвижимость, риэлторство;Резюме;resume
+/jobs-education/resumes/nannies/;Няни, воспитатели, помощники в хозяйстве;Резюме;resume
+/jobs-education/resumes/education;Образование, наука, культура;Резюме;resume
+/jobs-education/resumes/assistance;Обслуживающий персонал, секретариат, ахо ;Резюме;resume
+/jobs-education/resumes/security;Охрана, безопасность;Резюме;resume
+/jobs-education/resumes/retail;Продажи;Резюме;resume
+/jobs-education/resumes/production;Промышленность, производство;Резюме;resume
+/jobs-education/resumes/horeca;Ресторанный бизнес, фастфуд;Резюме;resume
+/jobs-education/resumes/management;Руководители;Резюме;resume
+/jobs-education/resumes/print-media;Сми, издательство, полиграфия;Резюме;resume
+/jobs-education/resumes/insurance;Страхование;Резюме;resume
+/jobs-education/resumes/building;Строительство и архитектура;Резюме;resume
+/jobs-education/resumes/transport;Транспорт, автобизнес;Резюме;resume
+/jobs-education/resumes/tourism;Туризм, гостиничное дело;Резюме;resume
+/jobs-education/resumes/freelance;Удаленная работа;Резюме;resume
+/jobs-education/resumes/hr;Управление персоналом;Резюме;resume
+/jobs-education/resumes/finance;Финансы, бухгалтерия, банк;Резюме;resume
+/jobs-education/resumes/legal;Юриспруденция;Резюме;resume
+/jobs-education/resumes/other;Другие сферы деятельности;Резюме;resume
+;Образование ;;
+/jobs-education/education/languages;Иностранные языки;Языки;languages
+/jobs-education/education/tutors;Преподаватели, репетиторы;Преподаватели, репетиторы;tutors
+/jobs-education/education/preschoolers;Дошкольное образование;Для дошкольников;preschoolers
+/jobs-education/education/trainings;Курсы, семинары, тренинги;Курсы, семинары, тренинги;cources
+/jobs-education/education/other;Другое;Другое образование;other_education
+/jobs-education/other;Другое;Другое работа и образование;other_job_education
+;Здоровье и красота;;
+/beauty-health/perfumes;Парфюмерия;Парфюмерия;perfume
+/beauty-health/cosmetics;Косметика;Косметика;cosmetics
+/beauty-health/lose-weight;Похудение;Похудение;slimming
+/beauty-health/equipment;Оснащение;Оснащение;medic_equipment
+/beauty-health/medical-care;Медицинская помощь ;Медпомощь;medical_aid
+/beauty-health/cosmetology;Косметология и коррекция;Косметология и коррекция;cosmetology
+/beauty-health/massage;Массаж;Массаж;massage
+/beauty-health/other;Другое;Другие косметологические услуги;other_cosmetic_services
+;Животные и растения;;
+;Животные ;;
+/animals-plants/animals/dogs;Собаки;Собаки;dog
+/animals-plants/animals/cats;Кошки;Кошки;cat
+/animals-plants/animals/birds;Птицы;Птицы;bird
+/animals-plants/animals/aquarium;Аквариумные;Аквариумные;fish
+/animals-plants/animals/rodents;Грызуны;Грызуны;rodent
+/animals-plants/animals/other;Другие животные;Другие животные;other_animal
+;Аксессуары ;;
+/animals-plants/accessories/food;Корма и добавки;Корма;forage
+/animals-plants/accessories/animal_cloth;Одежда для животных;Одежда для животных;animal_cloth
+/animals-plants/accessories/care;Средства для ухода за животными;Средства для ухода за животными;care
+/animals-plants/accessories/aquarium;Аквариумистика;Аквариумистика;aquarium
+/animals-plants/accessories/other;Другое;Другие аксессуары для животных;other_animal_access
+/animals-plants/plants;Растения;Растения;plant
+;Праздники и подарки;;
+/gifts/holiday;Тематические подарки;Тематические подарки;holiday
+/gifts/business-souvenir;Бизнес сувениры;Бизнес сувениры;business_souvenir
+/gifts/flower;Букеты, декоративные цветы и вкусные подарки;Букеты, декоративные цветы и вкусные подарки;flowers
+/gifts/decoration;Подарки для декора и интерьера;Подарки для декора и интерьера;decor_gifts
+/gifts/hobby;Хобби и развлечения;Хобби и развлечения;hobby_gifts
+/gifts/wine-tobacco;Принадлежности для спиртного и аксессуары для курения;Принадлежности для спиртного и аксессуары для курения;wine-tobacco_gifts
+/gifts/gift-set;Подарочные наборы;Подарочные наборы;gift_set
+/gifts/gift-certificate;Подарочные сертификаты;Подарочные сертификаты;gift_certificate
+/gifts/handmade;Подарки ручной работы;Подарки ручной работы;handmade
+/gifts/holiday-accessory;Праздничные аксессуары;Праздничные аксессуары;holiday_accessory
+/gifts/other;Другое;Подарки другое;present
+;Другое;;
+/other/food;Продовольствие;Продовольствие;food
+/other/adult;Товары для взрослых;Товары для взрослых;adult
+/other/other;Другое;Другое;other_other
+/otdam-darom;Отдам даром;Отдам даром;darom

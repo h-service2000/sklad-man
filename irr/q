@@ -1,0 +1,52 @@
+http://ryazan.irr.ru/help/forCompanyi/interSellers/
+http://content.irr.ru/files/rules_xml20.PDF
+
+Недвижимость, 
+Участки, 
+Коммерческая недвижимость, 
+Производство и склады (аренда), 
+Производство и склады  (продажа), 
+Агентства недвижимости, 
+Недвижимость, 
+риэлторство
+
+
+Аренда 	/real-estate/commercial/production-warehouses;Производство и склады (аренда);56
+			
+Продажа /real-estate/commercial-sale/production-warehouses;Производство и склады  (продажа);62
+Ответственное хранение 
+Bts
+Земельные участки	/real-estate/out-of-town/lands;Участки;51
+
+
+taenf_agent_flat_rent 
+co_id=843
+co_publicate=1
+co_name=title
+co_add_info=description
+co_area=520 - площадь
+co_area_office - Офисные площади: (м2)
+co_distance =14 (км от МКАД)
+
+co_price1 - 4200 ( руб. м2/год)
+co_photos - 3 (штук фото)
+load_floor - Нагрузка на пол: (т на м2)
+params->height_roof -6-8 (Высота потолков)
+params->sum_doc (Количество доков)
+
+co_author_id или co_agent_id - u_id из taenf_agent_users
+
+taenf_agent_gallery - item_id
+taenf_agent_lotnum_map - table_id:id 843:1135
+taenf_agent_map_free_area 1135:520
+
+taenf_associations 843:e98b8adb572bc13559d3b46514fea518
+taenf_associations 1135:d2bc170865703f8be8547fcc9b466df6
+
+
+taenf_agent_flat_rent 
+co_id=1259	1565?
+co_publicate=1
+
+
+zem_objects

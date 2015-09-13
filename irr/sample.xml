@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+	<user deactivate-untouched="false"> 
+	<match> 
+		<user-id>000000001</user-id> 
+	</match>
+	
+	<store-ad validfrom="2011-10-11T10:42:19" validtill="2011-10-13T10:42:19" power-ad="1" source-id="6734535" category="/real-estate/apartments-sale/new/" adverttype="realty_new"> 
+	<products>
+		<product name="premium" type="7" validfrom="2013-12-03"/>
+	</products>
+	
+	<price value="125000" currency="RUR"></price>
+	<title>Просторная 2-комнатная квартира с видом на парк</title>
+	<description>Просторная 2-к квартира 47 м² на 6 этаже 10-этажного панельного дома. Собственник продаёт 2-х комнатную квартиру в доме 2001 года. Площадь 47.0/25/8 м. кв. Кухня - 8 м. кв. Лоджия - 7 м. кв. Собственность. Необходим косметический ремонт</description>
+	<fotos>
+		<foto-remote url="http://site1.ru/pictures/image/1.jpg" md5="123456"/>
+		<foto-remote url="http://site1.ru/pictures/image/2.jpg" md5="234567"/>
+		<foto-remote url="http://site1.ru/pictures/image/3.jpg" md5="345678"/>
+		<foto-remote url="http://site1.ru/pictures/image/4.jpg" md5="567890"/>
+		<foto-remote url="http://site1.ru/pictures/image/5.jpg" md5="678901"/>
+	</fotos>
+	<custom-fields>
+		<field name="region"> Московская </field>
+		<field name="address_city">Нахабино</field>
+		<field name="shosse">Новорижское ш.</field>
+		<field name="distance_mkad">10</field>
+		<field name="email">myletters@mail.ru </field>
+		<field name="web">http://market.yandex.ru/model.xml?modelid=93</field>
+		<field name="phone">+7(499)898-57-88, +7(499)898-44-88</field>
+		<field name="contact">Иван Петрович</field>
+		<field name="etage">6</field>
+		<field name="etage-all">10</field>
+		<field name="rooms">2</field>
+		<field name="meters-total">47</field>
+		<field name="meters-living">25</field>
+		<field name="kitchen">8</field>
+		<field name="toilet">раздельный</field>
+		<field name="telephone">есть</field>
+		<field name="internet">есть</field>
+		<field name="balcony">есть</field>
+		<field name="private">да</field>
+		<field name="house-year">2001</field>
+	</custom-fields>
+	</store-ad>
+
+	
+	<store-ad>
+	</store-ad>
+
+
+	</user> 
+</users>
