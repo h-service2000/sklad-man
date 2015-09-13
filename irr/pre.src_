@@ -1,2 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ads source="Moscow-IRR" source-type="newspaper" default-pay-per-contact ="false" purge-old="false" user-id="12345" xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://195.133.91.190/schemas/main.xsd">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+	<user deactivate-untouched="false"> 
+	<match> 
+		<user-id>000000022</user-id> 
+	</match>
