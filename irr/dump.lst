@@ -1,9 +1,5 @@
 <?
 
-$database = "skmcom";
-$host = "localhost";
-$user = "skmcom";
-$pass="Ty8Pc7vh";
 $dbconnect = @mysql_connect($host, $user, $pass); 
 if($dbconnect) {
 	mysql_select_db ($database, $dbconnect); 
